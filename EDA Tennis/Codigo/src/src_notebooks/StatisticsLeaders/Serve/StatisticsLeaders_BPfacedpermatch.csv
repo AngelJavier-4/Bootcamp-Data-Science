@@ -1,0 +1,291 @@
+rank,name,country_name,country_id,active,value
+1,Marcos Ondruska,South Africa,RSA,false,8.82
+2,Tomas Carbonell,Spain,ESP,false,8.63
+3,Fernando Vicente,Spain,ESP,false,8.43
+4,Andrei Chesnokov,Russian Federation,RUS,false,8.43
+5,Ronald Agenor,United States,USA,false,8.41
+6,Jordi Arrese,Spain,ESP,false,8.39
+7,Patrick McEnroe,United States,USA,false,8.37
+8,Jaime Yzaga,Peru,PER,false,8.29
+9,Christophe Rochus,Belgium,BEL,false,8.28
+10,David Sanchez,Spain,ESP,false,8.28
+11,Mikael Tillstrom,Sweden,SWE,false,8.25
+12,Christian Ruud,Norway,NOR,false,8.22
+13,Gilbert Schaller,Austria,AUT,false,8.21
+14,Andrei Cherkasov,Russian Federation,RUS,false,8.18
+15,Damir Dzumhur,Bosnia and Herzegovina,BIH,true,8.17
+16,Slava Dosedel,Czech Republic,CZE,false,8.10
+17,Bernd Karbacher,Germany,GER,false,8.09
+18,Stefan Koubek,Austria,AUT,false,8.04
+19,Mikhail Kukushkin,Kazakhstan,KAZ,true,8.01
+20,Alejandro Falla,Colombia,COL,false,8.00
+21,Igor Kunitsyn,Russian Federation,RUS,false,8.00
+22,Benoit Paire,France,FRA,true,7.98
+23,Donald Young,United States,USA,true,7.97
+24,Martin Klizan,Slovakia,SVK,true,7.97
+25,Fabrice Santoro,France,FRA,false,7.96
+26,Malek Jaziri,Tunisia,TUN,true,7.96
+27,Albert Portas,Spain,ESP,false,7.95
+28,Fabio Fognini,Italy,ITA,true,7.95
+29,Marcelo Filippini,Uruguay,URU,false,7.95
+30,Pablo Andujar,Spain,ESP,true,7.94
+31,Carlos Berlocq,Argentina,ARG,false,7.93
+32,Nikoloz Basilashvili,Georgia,GEO,true,7.92
+33,Filippo Volandri,Italy,ITA,false,7.91
+34,Hendrik Dreekmann,Germany,GER,false,7.90
+35,Florent Serra,France,FRA,false,7.89
+36,Franco Squillari,Argentina,ARG,false,7.89
+37,Vincent Spadea,United States,USA,false,7.86
+38,Lars Burgsmuller,Germany,GER,false,7.86
+39,Gianluca Pozzi,Italy,ITA,false,7.85
+40,Davide Sanguinetti,Italy,ITA,false,7.85
+41,Jeff Tarango,United States,USA,false,7.85
+42,Teymuraz Gabashvili,Russian Federation,RUS,false,7.84
+43,Alberto Martin,Spain,ESP,false,7.84
+44,Lukasz Kubot,Poland,POL,false,7.83
+45,Aaron Krickstein,United States,USA,false,7.82
+46,Dudi Sela,Israel,ISR,false,7.81
+47,Gaston Gaudio,Argentina,ARG,false,7.81
+48,Todd Woodbridge,Australia,AUS,false,7.80
+49,Alexander Volkov,Russian Federation,RUS,false,7.79
+50,Guido Pella,Argentina,ARG,true,7.78
+51,Galo Blanco,Spain,ESP,false,7.78
+52,Olivier Rochus,Belgium,BEL,false,7.77
+53,Michael Russell,United States,USA,false,7.76
+54,Alberto Berasategui,Spain,ESP,false,7.73
+55,Stefano Pescosolido,Italy,ITA,false,7.68
+56,Sargis Sargsian,Armenia,ARM,false,7.67
+57,Andrea Gaudenzi,Italy,ITA,false,7.66
+58,Fernando Meligeni,Brazil,BRA,false,7.66
+59,Alex Obrien,United States,USA,false,7.66
+60,Diego Sebastian Schwartzman,Argentina,ARG,true,7.66
+61,Bohdan Ulihrach,Czech Republic,CZE,false,7.64
+62,Brad Gilbert,United States,USA,false,7.63
+63,Adrian Voinea,Romania,ROU,false,7.62
+64,Hicham Arazi,Morocco,MAR,false,7.62
+65,Bjorn Phau,Germany,GER,false,7.61
+66,Guillermo Garcia Lopez,Spain,ESP,false,7.56
+67,Juan Ignacio Chela,Argentina,ARG,false,7.54
+68,Renzo Furlan,Italy,ITA,false,7.53
+69,Nicolas Lapentti,Ecuador,ECU,false,7.50
+70,Scott Draper,Australia,AUS,false,7.49
+71,John Millman,Australia,AUS,true,7.48
+72,Paolo Lorenzi,Italy,ITA,true,7.46
+73,Nicolas Massu,Chile,CHI,false,7.46
+74,Hernan Gumy,Argentina,ARG,false,7.46
+75,Javier Sanchez,Spain,ESP,false,7.43
+76,Mark Woodforde,Australia,AUS,false,7.41
+77,David Prinosil,Germany,GER,false,7.41
+78,Arnaud Clement,France,FRA,false,7.41
+79,Francisco Clavet,Spain,ESP,false,7.41
+80,Carlos Costa,Spain,ESP,false,7.40
+81,Andreas Seppi,Italy,ITA,true,7.39
+82,Jordi Burillo,Spain,ESP,false,7.39
+83,Jonas Bjorkman,Sweden,SWE,false,7.39
+84,Gilles Simon,France,FRA,true,7.38
+85,Jarkko Nieminen,Finland,FIN,false,7.37
+86,Joao Sousa,Portugal,POR,true,7.35
+87,Andrei Medvedev,Ukraine,UKR,false,7.34
+88,Matthew Ebden,Australia,AUS,true,7.34
+89,Olivier Delaitre,France,FRA,false,7.32
+90,Albert Ramos,Spain,ESP,true,7.31
+91,Felix Mantilla,Spain,ESP,false,7.31
+92,Karol Kucera,Slovakia,SVK,false,7.31
+93,Byron Black,Zimbabwe,ZIM,false,7.29
+94,Dominik Hrbaty,Slovakia,SVK,false,7.26
+95,Karim Alami,Morocco,MAR,false,7.26
+96,Rainer Schuettler,Germany,GER,false,7.26
+97,Chris Woodruff,United States,USA,false,7.26
+98,Hyung Taik Lee,"Korea, Republic of",KOR,false,7.26
+99,Mariano Zabaleta,Argentina,ARG,false,7.24
+100,Lukas Rosol,Czech Republic,CZE,false,7.23
+101,Carl Uwe Steeb,Germany,GER,false,7.23
+102,Mischa Zverev,Germany,GER,true,7.22
+103,Daniel Gimeno Traver,Spain,ESP,false,7.22
+104,Nicklas Kulti,Sweden,SWE,false,7.22
+105,Dmitry Tursunov,Russian Federation,RUS,false,7.20
+106,Petr Korda,Czech Republic,CZE,false,7.19
+107,Thomaz Bellucci,Brazil,BRA,true,7.18
+108,Steve Darcis,Belgium,BEL,false,7.18
+109,Ricardas Berankis,Lithuania,LTU,true,7.17
+110,Potito Starace,Italy,ITA,false,7.17
+111,Paul Haarhuis,Netherlands,NED,false,7.16
+112,Adrian Mannarino,France,FRA,true,7.15
+113,Alex Corretja,Spain,ESP,false,7.15
+114,Federico Delbonis,Argentina,ARG,true,7.14
+115,David Wheaton,United States,USA,false,7.12
+116,Lucas Pouille,France,FRA,true,7.10
+117,Robin Haase,Netherlands,NED,true,7.10
+118,Richard Fromberg,Australia,AUS,false,7.10
+119,Edouard Roger Vasselin,France,FRA,false,7.10
+120,Brett Steven,New Zealand,NZL,false,7.09
+121,Sjeng Schalken,Netherlands,NED,false,7.08
+122,Emilio Sanchez,Spain,ESP,false,7.08
+123,Guillermo Coria,Argentina,ARG,false,7.08
+124,Marcel Granollers,Spain,ESP,true,7.07
+125,Justin Gimelstob,United States,USA,false,7.05
+126,Mikhail Youzhny,Russian Federation,RUS,false,7.05
+127,Ryan Harrison,United States,USA,true,7.05
+128,Julien Benneteau,France,FRA,false,7.05
+129,Jiri Novak,Czech Republic,CZE,false,7.05
+130,Magnus Gustafsson,Sweden,SWE,false,7.04
+131,Lukas Lacko,Slovakia,SVK,true,7.03
+132,Michael Berrer,Germany,GER,false,7.03
+133,Sandon Stolle,Australia,AUS,false,7.00
+134,David Nalbandian,Argentina,ARG,false,7.00
+135,Guillermo Canas,Argentina,ARG,false,7.00
+136,Jurgen Melzer,Austria,AUT,false,6.99
+137,Santiago Giraldo,Colombia,COL,false,6.98
+138,Jason Stoltenberg,Australia,AUS,false,6.97
+139,Albert Montanes,Spain,ESP,false,6.96
+140,Dusan Lajovic,Serbia,SRB,true,6.96
+141,Magnus Norman,Sweden,SWE,false,6.95
+142,Amos Mansdorf,Israel,ISR,false,6.93
+143,Yen Hsun Lu,"Taiwan, Province of China",TPE,true,6.93
+144,Juan Monaco,Argentina,ARG,false,6.92
+145,Pablo Carreno Busta,Spain,ESP,true,6.91
+146,Sebastien Grosjean,France,FRA,false,6.91
+147,Andrei Olhovskiy,Russian Federation,RUS,false,6.91
+148,Viktor Troicki,Serbia,SRB,true,6.90
+149,Nicolas Escude,France,FRA,false,6.88
+150,Bernard Tomic,Australia,AUS,true,6.88
+151,Richey Reneberg,United States,USA,false,6.87
+152,Antony Dupuis,France,FRA,false,6.87
+153,Sergiy Stakhovsky,Ukraine,UKR,true,6.86
+154,Andrei Pavel,Romania,ROU,false,6.83
+155,David Goffin,Belgium,BEL,true,6.83
+156,Sergi Bruguera,Spain,ESP,false,6.83
+157,Ivan Dodig,Croatia,CRO,false,6.82
+158,Albert Costa,Spain,ESP,false,6.82
+159,Cedric Pioline,France,FRA,false,6.81
+160,Marc Gicquel,France,FRA,false,6.80
+161,Carlos Moya,Spain,ESP,false,6.79
+162,Raemon Sluiter,Netherlands,NED,false,6.77
+163,Juan Carlos Ferrero,Spain,ESP,false,6.76
+164,Victor Hanescu,Romania,ROU,false,6.74
+165,Aljaz Bedene,Slovenia,SLO,true,6.74
+166,David Ferrer,Spain,ESP,false,6.73
+167,Arnaud Boetsch,France,FRA,false,6.73
+168,Horacio Zeballos,Argentina,ARG,true,6.73
+169,Tommy Robredo,Spain,ESP,true,6.72
+170,Denis Istomin,Uzbekistan,UZB,true,6.69
+171,Daniel Vacek,Czech Republic,CZE,false,6.69
+172,Yevgeny Kafelnikov,Russian Federation,RUS,false,6.68
+173,Bryan Shelton,United States,USA,false,6.68
+174,Jacco Eltingh,Netherlands,NED,false,6.68
+175,Javier Frana,Argentina,ARG,false,6.68
+176,Florian Mayer,Germany,GER,false,6.66
+177,Karel Novacek,Czech Republic,CZE,false,6.66
+178,Paul Henri Mathieu,France,FRA,false,6.66
+179,Jan Siemerink,Netherlands,NED,false,6.66
+180,Guillaume Raoux,France,FRA,false,6.64
+181,Nicolas Kiefer,Germany,GER,false,6.64
+182,Wayne Ferreira,South Africa,RSA,false,6.63
+183,Robby Ginepri,United States,USA,false,6.63
+184,Nikolay Davydenko,Russian Federation,RUS,false,6.63
+185,Jiri Vesely,Czech Republic,CZE,true,6.62
+186,Lleyton Hewitt,Australia,AUS,false,6.61
+187,Fernando Verdasco,Spain,ESP,true,6.61
+188,Mariano Puerta,Argentina,ARG,false,6.55
+189,James Blake,United States,USA,false,6.55
+190,Xavier Malisse,Belgium,BEL,false,6.55
+191,Jeremy Chardy,France,FRA,true,6.54
+192,Martin Damm,Czech Republic,CZE,false,6.54
+193,Pierre Hugues Herbert,France,FRA,true,6.52
+194,Thomas Muster,Austria,AUT,false,6.52
+195,Michael Chang,United States,USA,false,6.49
+196,Younes El Aynaoui,Morocco,MAR,false,6.48
+197,Tim Henman,United Kingdom,GBR,false,6.47
+198,Wally Masur,Australia,AUS,false,6.46
+199,Simone Bolelli,Italy,ITA,false,6.46
+200,Pablo Cuevas,Uruguay,URU,true,6.45
+201,Agustin Calleri,Argentina,ARG,false,6.45
+202,Ernests Gulbis,Latvia,LAT,true,6.44
+203,Roberto Bautista Agut,Spain,ESP,true,6.44
+204,Jakob Hlasek,Switzerland,SUI,false,6.44
+205,Jose Acasuso,Argentina,ARG,false,6.43
+206,Marc Kevin Goellner,Germany,GER,false,6.41
+207,Stan Wawrinka,Switzerland,SUI,true,6.40
+208,Kenneth Carlsen,Denmark,DEN,false,6.34
+209,Kyle Edmund,United Kingdom,GBR,true,6.34
+210,Janko Tipsarevic,Serbia,SRB,false,6.34
+211,Jerome Golmard,France,FRA,false,6.33
+212,Igor Andreev,Russian Federation,RUS,false,6.33
+213,Marcos Baghdatis,Cyprus,CYP,false,6.33
+214,Marat Safin,Russian Federation,RUS,false,6.33
+215,Thomas Johansson,Sweden,SWE,false,6.31
+216,Gael Monfils,France,FRA,true,6.30
+217,Jan Michael Gambill,United States,USA,false,6.30
+218,Karen Khachanov,Russian Federation,RUS,true,6.30
+219,Kei Nishikori,Japan,JPN,true,6.29
+220,Nicolas Mahut,France,FRA,true,6.28
+221,Luis Horna,Peru,PER,false,6.28
+222,Taylor Dent,United States,USA,false,6.28
+223,Borna Coric,Croatia,CRO,true,6.25
+224,Alexandr Dolgopolov,Ukraine,UKR,false,6.23
+225,Magnus Larsson,Sweden,SWE,false,6.21
+226,Jan Lennard Struff,Germany,GER,true,6.20
+227,Radek Stepanek,Czech Republic,CZE,false,6.18
+228,Thomas Enqvist,Sweden,SWE,false,6.17
+229,Denis Shapovalov,Canada,CAN,true,6.16
+230,Jack Sock,United States,USA,true,6.16
+231,Malivai Washington,United States,USA,false,6.16
+232,Taylor Harry Fritz,United States,USA,true,6.12
+233,Grigor Dimitrov,Bulgaria,BUL,true,6.11
+234,Paradorn Srichaphan,Thailand,THA,false,6.11
+235,Feliciano Lopez,Spain,ESP,true,6.10
+236,Leonardo Mayer,Argentina,ARG,true,6.10
+237,Marcelo Rios,Chile,CHI,false,6.10
+238,Todd Martin,United States,USA,false,6.09
+239,Andy Murray,United Kingdom,GBR,true,6.07
+240,Fernando Gonzalez,Chile,CHI,false,6.07
+241,Benjamin Becker,Germany,GER,false,6.07
+242,Andrey Rublev,Russian Federation,RUS,true,6.06
+243,Alexander Zverev,Germany,GER,true,6.06
+244,Tommy Haas,Germany,GER,false,6.04
+245,Vasek Pospisil,Canada,CAN,true,6.02
+246,Michael Llodra,France,FRA,false,6.02
+247,Philipp Kohlschreiber,Germany,GER,true,6.01
+248,Stefan Edberg,Sweden,SWE,false,5.98
+249,Gustavo Kuerten,Brazil,BRA,false,5.95
+250,Gilles Muller,Luxembourg,LUX,false,5.92
+251,Mardy Fish,United States,USA,false,5.84
+252,Dominic Thiem,Austria,AUT,true,5.83
+253,Marin Cilic,Croatia,CRO,true,5.82
+254,Steve Johnson,United States,USA,true,5.81
+255,Guy Forget,France,FRA,false,5.79
+256,Ivan Lendl,United States,USA,false,5.76
+257,Nicolas Almagro,Spain,ESP,false,5.72
+258,Jonathan Stark,United States,USA,false,5.70
+259,Marc Rosset,Switzerland,SUI,false,5.70
+260,Max Mirnyi,Belarus,BLR,false,5.68
+261,Daniil Medvedev,Russian Federation,RUS,true,5.62
+262,Richard Gasquet,France,FRA,true,5.61
+263,Michael Stich,Germany,GER,false,5.59
+264,Andre Agassi,United States,USA,false,5.56
+265,Jim Courier,United States,USA,false,5.52
+266,Mark Philippoussis,Australia,AUS,false,5.50
+267,Patrick Rafter,Australia,AUS,false,5.48
+268,Robin Soderling,Sweden,SWE,false,5.47
+269,Mario Ancic,Croatia,CRO,false,5.43
+270,Ivan Ljubicic,Croatia,CRO,false,5.43
+271,Boris Becker,Germany,GER,false,5.41
+272,Goran Ivanisevic,Croatia,CRO,false,5.31
+273,Tomas Berdych,Czech Republic,CZE,false,5.30
+274,Sam Querrey,United States,USA,true,5.29
+275,Kevin Anderson,South Africa,RSA,true,5.19
+276,Greg Rusedski,United Kingdom,GBR,false,5.18
+277,Novak Djokovic,Serbia,SRB,true,5.15
+278,Jo Wilfried Tsonga,France,FRA,true,5.10
+279,Juan Martin Del Potro,Argentina,ARG,true,5.06
+280,Rafael Nadal,Spain,ESP,true,5.03
+281,Stefanos Tsitsipas,Greece,GRE,true,5.01
+282,Wayne Arthurs,Australia,AUS,false,4.97
+283,Richard Krajicek,Netherlands,NED,false,4.77
+284,Nick Kyrgios,Australia,AUS,true,4.76
+285,Pete Sampras,United States,USA,false,4.63
+286,Roger Federer,Switzerland,SUI,true,4.40
+287,John Isner,United States,USA,true,4.02
+288,Andy Roddick,United States,USA,false,3.86
+289,Ivo Karlovic,Croatia,CRO,true,3.83
+290,Milos Raonic,Canada,CAN,true,3.81

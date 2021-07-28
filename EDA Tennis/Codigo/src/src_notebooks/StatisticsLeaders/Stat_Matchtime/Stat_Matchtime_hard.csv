@@ -1,0 +1,287 @@
+rank,name,country_name,country_id,active,value
+1,Daniel Evans,United Kingdom,GBR,true,2:04
+2,Marton Fucsovics,Hungary,HUN,true,2:00
+3,Nicolas Massu,Chile,CHI,false,1:59
+4,Gaston Gaudio,Argentina,ARG,false,1:54
+5,Alex De Minaur,Australia,AUS,true,1:54
+6,David Nalbandian,Argentina,ARG,false,1:54
+7,Rafael Nadal,Spain,ESP,true,1:53
+8,Denis Shapovalov,Canada,CAN,true,1:53
+9,Juan Martin Del Potro,Argentina,ARG,true,1:52
+10,Frances Tiafoe,United States,USA,true,1:52
+11,Paolo Lorenzi,Italy,ITA,true,1:51
+12,Janko Tipsarevic,Serbia,SRB,false,1:51
+13,Stan Wawrinka,Switzerland,SUI,true,1:51
+14,Juan Monaco,Argentina,ARG,false,1:51
+15,Guido Pella,Argentina,ARG,true,1:51
+16,Karen Khachanov,Russian Federation,RUS,true,1:51
+17,Juan Carlos Ferrero,Spain,ESP,false,1:51
+18,Guillermo Canas,Argentina,ARG,false,1:51
+19,Igor Andreev,Russian Federation,RUS,false,1:50
+20,Ivan Dodig,Croatia,CRO,false,1:50
+21,Albert Ramos,Spain,ESP,true,1:50
+22,Andy Murray,United Kingdom,GBR,true,1:50
+23,Stefanos Tsitsipas,Greece,GRE,true,1:50
+24,Nicolas Almagro,Spain,ESP,false,1:49
+25,John Millman,Australia,AUS,true,1:49
+26,Mario Ancic,Croatia,CRO,false,1:49
+27,Lleyton Hewitt,Australia,AUS,false,1:49
+28,Diego Sebastian Schwartzman,Argentina,ARG,true,1:49
+29,Marin Cilic,Croatia,CRO,true,1:48
+30,Agustin Calleri,Argentina,ARG,false,1:48
+31,Kyle Edmund,United Kingdom,GBR,true,1:48
+32,Ivan Ljubicic,Croatia,CRO,false,1:48
+33,Sebastien Grosjean,France,FRA,false,1:48
+34,Paul Henri Mathieu,France,FRA,false,1:47
+35,Juan Ignacio Chela,Argentina,ARG,false,1:47
+36,Brad Gilbert,United States,USA,false,1:47
+37,Nicolas Lapentti,Ecuador,ECU,false,1:47
+38,Andrei Cherkasov,Russian Federation,RUS,false,1:47
+39,Guillermo Coria,Argentina,ARG,false,1:47
+40,Arnaud Clement,France,FRA,false,1:47
+41,Alexander Zverev,Germany,GER,true,1:46
+42,Olivier Rochus,Belgium,BEL,false,1:46
+43,Gilles Simon,France,FRA,true,1:46
+44,Novak Djokovic,Serbia,SRB,true,1:46
+45,Radu Albot,"Moldova, Republic of",MDA,true,1:46
+46,John Isner,United States,USA,true,1:45
+47,Mikhail Kukushkin,Kazakhstan,KAZ,true,1:45
+48,Andreas Seppi,Italy,ITA,true,1:45
+49,Fernando Verdasco,Spain,ESP,true,1:45
+50,Mikhail Youzhny,Russian Federation,RUS,false,1:45
+51,Fernando Gonzalez,Chile,CHI,false,1:45
+52,Thomaz Bellucci,Brazil,BRA,true,1:45
+53,Nikolay Davydenko,Russian Federation,RUS,false,1:45
+54,Michael Russell,United States,USA,false,1:45
+55,Grigor Dimitrov,Bulgaria,BUL,true,1:45
+56,Victor Hanescu,Romania,ROU,false,1:44
+57,Kevin Anderson,South Africa,RSA,true,1:44
+58,Borna Coric,Croatia,CRO,true,1:44
+59,Dmitry Tursunov,Russian Federation,RUS,false,1:44
+60,Dominic Thiem,Austria,AUT,true,1:44
+61,Nicolas Escude,France,FRA,false,1:44
+62,Ivan Lendl,United States,USA,false,1:44
+63,David Ferrer,Spain,ESP,false,1:44
+64,Alex Bogomolov Jr,Russian Federation,RUS,false,1:44
+65,Alex Corretja,Spain,ESP,false,1:44
+66,Ryan Harrison,United States,USA,true,1:44
+67,Gilles Muller,Luxembourg,LUX,false,1:44
+68,Marcos Baghdatis,Cyprus,CYP,false,1:44
+69,Marat Safin,Russian Federation,RUS,false,1:43
+70,Marcel Granollers,Spain,ESP,true,1:43
+71,Milos Raonic,Canada,CAN,true,1:43
+72,Jim Grabb,United States,USA,false,1:43
+73,Carlos Moya,Spain,ESP,false,1:43
+74,Younes El Aynaoui,Morocco,MAR,false,1:43
+75,Taylor Harry Fritz,United States,USA,true,1:43
+76,Tommy Robredo,Spain,ESP,true,1:43
+77,Dusan Lajovic,Serbia,SRB,true,1:43
+78,Karol Beck,Slovakia,SVK,false,1:43
+79,Pablo Carreno Busta,Spain,ESP,true,1:43
+80,Jose Acasuso,Argentina,ARG,false,1:43
+81,Mardy Fish,United States,USA,false,1:43
+82,Cecil Mamiit,Philippines,PHI,false,1:43
+83,Julien Benneteau,France,FRA,false,1:43
+84,Nicolas Kiefer,Germany,GER,false,1:42
+85,Pablo Andujar,Spain,ESP,true,1:42
+86,Mariano Zabaleta,Argentina,ARG,false,1:42
+87,Lars Burgsmuller,Germany,GER,false,1:42
+88,Guillermo Garcia Lopez,Spain,ESP,false,1:42
+89,Radek Stepanek,Czech Republic,CZE,false,1:42
+90,Steve Darcis,Belgium,BEL,false,1:42
+91,Kei Nishikori,Japan,JPN,true,1:42
+92,Cyril Saulnier,France,FRA,false,1:42
+93,Gael Monfils,France,FRA,true,1:42
+94,Igor Kunitsyn,Russian Federation,RUS,false,1:42
+95,Roberto Bautista Agut,Spain,ESP,true,1:42
+96,Jurgen Melzer,Austria,AUT,false,1:41
+97,Leonardo Mayer,Argentina,ARG,true,1:41
+98,Marinko Matosevic,Australia,AUS,false,1:41
+99,Robin Haase,Netherlands,NED,true,1:41
+100,Philipp Kohlschreiber,Germany,GER,true,1:41
+101,Lucas Pouille,France,FRA,true,1:41
+102,Nikoloz Basilashvili,Georgia,GEO,true,1:41
+103,Daniil Medvedev,Russian Federation,RUS,true,1:41
+104,Alberto Martin,Spain,ESP,false,1:41
+105,Fabrice Santoro,France,FRA,false,1:41
+106,Feliciano Lopez,Spain,ESP,true,1:41
+107,Philipp Petzschner,Germany,GER,false,1:41
+108,Magnus Norman,Sweden,SWE,false,1:41
+109,Max Mirnyi,Belarus,BLR,false,1:41
+110,Ivo Karlovic,Croatia,CRO,true,1:40
+111,Florent Serra,France,FRA,false,1:40
+112,David Wheaton,United States,USA,false,1:40
+113,Nicolas Mahut,France,FRA,true,1:40
+114,Jo Wilfried Tsonga,France,FRA,true,1:40
+115,Jan Hernych,Czech Republic,CZE,false,1:40
+116,Felix Mantilla,Spain,ESP,false,1:40
+117,Sargis Sargsian,Armenia,ARM,false,1:40
+118,Edouard Roger Vasselin,France,FRA,false,1:40
+119,Damir Dzumhur,Bosnia and Herzegovina,BIH,true,1:40
+120,Michael Berrer,Germany,GER,false,1:40
+121,Tomas Berdych,Czech Republic,CZE,false,1:40
+122,Jeremy Chardy,France,FRA,true,1:40
+123,Rainer Schuettler,Germany,GER,false,1:39
+124,Tim Henman,United Kingdom,GBR,false,1:39
+125,Shuzo Matsuoka,Japan,JPN,false,1:39
+126,Lionel Roux,France,FRA,false,1:39
+127,Albert Costa,Spain,ESP,false,1:39
+128,Evgeny Donskoy,Russian Federation,RUS,true,1:39
+129,Fabio Fognini,Italy,ITA,true,1:39
+130,Yoshihito Nishioka,Japan,JPN,true,1:39
+131,Tommy Haas,Germany,GER,false,1:39
+132,Michael Chang,United States,USA,false,1:39
+133,Hyung Taik Lee,"Korea, Republic of",KOR,false,1:39
+134,Cristiano Caratti,Italy,ITA,false,1:39
+135,Aljaz Bedene,Slovenia,SLO,true,1:39
+136,Filip Krajinovic,Serbia,SRB,true,1:39
+137,Ernests Gulbis,Latvia,LAT,true,1:39
+138,Cedric Pioline,France,FRA,false,1:39
+139,Pierre Hugues Herbert,France,FRA,true,1:39
+140,Vasek Pospisil,Canada,CAN,true,1:38
+141,Ramon Delgado,Paraguay,PAR,false,1:38
+142,Marc Gicquel,France,FRA,false,1:38
+143,Boris Becker,Germany,GER,false,1:38
+144,Jiri Vesely,Czech Republic,CZE,true,1:38
+145,Adrian Mannarino,France,FRA,true,1:38
+146,Jim Courier,United States,USA,false,1:38
+147,Andy Roddick,United States,USA,false,1:38
+148,David Goffin,Belgium,BEL,true,1:38
+149,Justin Gimelstob,United States,USA,false,1:38
+150,Hicham Arazi,Morocco,MAR,false,1:38
+151,Andrea Gaudenzi,Italy,ITA,false,1:38
+152,Wayne Arthurs,Australia,AUS,false,1:38
+153,Alejandro Falla,Colombia,COL,false,1:38
+154,Todd Martin,United States,USA,false,1:38
+155,Dudi Sela,Israel,ISR,false,1:38
+156,Denis Istomin,Uzbekistan,UZB,true,1:38
+157,Jan Lennard Struff,Germany,GER,true,1:38
+158,Lukas Lacko,Slovakia,SVK,true,1:38
+159,Thomas Johansson,Sweden,SWE,false,1:37
+160,Chris Woodruff,United States,USA,false,1:37
+161,Jerzy Janowicz,Poland,POL,false,1:37
+162,Richard Fromberg,Australia,AUS,false,1:37
+163,Joao Sousa,Portugal,POR,true,1:37
+164,Santiago Giraldo,Colombia,COL,false,1:37
+165,Paradorn Srichaphan,Thailand,THA,false,1:37
+166,Gustavo Kuerten,Brazil,BRA,false,1:37
+167,Xavier Malisse,Belgium,BEL,false,1:37
+168,Teymuraz Gabashvili,Russian Federation,RUS,false,1:37
+169,Andrei Pavel,Romania,ROU,false,1:37
+170,Jarkko Nieminen,Finland,FIN,false,1:36
+171,Patrick McEnroe,United States,USA,false,1:36
+172,Sergiy Stakhovsky,Ukraine,UKR,true,1:36
+173,Roger Federer,Switzerland,SUI,true,1:36
+174,Gianluca Pozzi,Italy,ITA,false,1:36
+175,Kenneth Carlsen,Denmark,DEN,false,1:36
+176,Dominik Hrbaty,Slovakia,SVK,false,1:36
+177,Matthew Ebden,Australia,AUS,true,1:36
+178,Viktor Troicki,Serbia,SRB,true,1:36
+179,Sjeng Schalken,Netherlands,NED,false,1:36
+180,Magnus Gustafsson,Sweden,SWE,false,1:36
+181,Hyeon Chung,"Korea, Republic of",KOR,true,1:36
+182,Wally Masur,Australia,AUS,false,1:36
+183,Alex Obrien,United States,USA,false,1:35
+184,Guy Forget,France,FRA,false,1:35
+185,Francisco Clavet,Spain,ESP,false,1:35
+186,Fernando Vicente,Spain,ESP,false,1:35
+187,Malek Jaziri,Tunisia,TUN,true,1:35
+188,Ricardas Berankis,Lithuania,LTU,true,1:35
+189,Richard Gasquet,France,FRA,true,1:35
+190,Jan Michael Gambill,United States,USA,false,1:35
+191,Davide Sanguinetti,Italy,ITA,false,1:35
+192,Jaime Yzaga,Peru,PER,false,1:35
+193,Jan Siemerink,Netherlands,NED,false,1:34
+194,Karol Kucera,Slovakia,SVK,false,1:34
+195,Chuck Adams,United States,USA,false,1:34
+196,Henrik Holm,Sweden,SWE,false,1:34
+197,Yen Hsun Lu,"Taiwan, Province of China",TPE,true,1:34
+198,James Blake,United States,USA,false,1:34
+199,Nick Kyrgios,Australia,AUS,true,1:34
+200,Greg Rusedski,United Kingdom,GBR,false,1:34
+201,Bjorn Phau,Germany,GER,false,1:34
+202,Mischa Zverev,Germany,GER,true,1:34
+203,Robby Ginepri,United States,USA,false,1:34
+204,Martin Klizan,Slovakia,SVK,true,1:34
+205,Stefan Koubek,Austria,AUT,false,1:34
+206,Vincent Spadea,United States,USA,false,1:34
+207,Stefano Pescosolido,Italy,ITA,false,1:34
+208,Andrey Rublev,Russian Federation,RUS,true,1:34
+209,Marc Rosset,Switzerland,SUI,false,1:34
+210,Martin Damm,Czech Republic,CZE,false,1:34
+211,Derrick Rostagno,United States,USA,false,1:33
+212,Andrei Chesnokov,Russian Federation,RUS,false,1:33
+213,Aaron Krickstein,United States,USA,false,1:33
+214,Rajeev Ram,United States,USA,false,1:33
+215,Paul Goldstein,United States,USA,false,1:33
+216,Albert Montanes,Spain,ESP,false,1:33
+217,Jeff Tarango,United States,USA,false,1:33
+218,Jack Sock,United States,USA,true,1:33
+219,Simone Bolelli,Italy,ITA,false,1:33
+220,Andrew Ilie,Australia,AUS,false,1:32
+221,Sam Querrey,United States,USA,true,1:32
+222,Patrick Rafter,Australia,AUS,false,1:32
+223,Donald Young,United States,USA,true,1:32
+224,Scott Draper,Australia,AUS,false,1:32
+225,Marcos Ondruska,South Africa,RSA,false,1:32
+226,Mark Woodforde,Australia,AUS,false,1:32
+227,Mark Philippoussis,Australia,AUS,false,1:32
+228,Robin Soderling,Sweden,SWE,false,1:32
+229,Pablo Cuevas,Uruguay,URU,true,1:31
+230,Wayne Ferreira,South Africa,RSA,false,1:31
+231,Jonas Bjorkman,Sweden,SWE,false,1:31
+232,Michael Llodra,France,FRA,false,1:31
+233,Steve Johnson,United States,USA,true,1:31
+234,Benoit Paire,France,FRA,true,1:31
+235,Stefan Edberg,Sweden,SWE,false,1:31
+236,Jonathan Stark,United States,USA,false,1:31
+237,Jerome Golmard,France,FRA,false,1:31
+238,Christophe Rochus,Belgium,BEL,false,1:30
+239,Guillaume Raoux,France,FRA,false,1:30
+240,Paul Haarhuis,Netherlands,NED,false,1:30
+241,Renzo Furlan,Italy,ITA,false,1:30
+242,Petr Korda,Czech Republic,CZE,false,1:30
+243,Yevgeny Kafelnikov,Russian Federation,RUS,false,1:30
+244,Bernard Tomic,Australia,AUS,true,1:30
+245,Todd Woodbridge,Australia,AUS,false,1:30
+246,Benjamin Becker,Germany,GER,false,1:29
+247,Nicklas Kulti,Sweden,SWE,false,1:29
+248,Mikael Tillstrom,Sweden,SWE,false,1:29
+249,Jiri Novak,Czech Republic,CZE,false,1:29
+250,Sandon Stolle,Australia,AUS,false,1:29
+251,Taylor Dent,United States,USA,false,1:29
+252,Richard Krajicek,Netherlands,NED,false,1:29
+253,Sebastien Lareau,Canada,CAN,false,1:28
+254,Thomas Enqvist,Sweden,SWE,false,1:28
+255,Pete Sampras,United States,USA,false,1:28
+256,Alexander Volkov,Russian Federation,RUS,false,1:28
+257,Javier Sanchez,Spain,ESP,false,1:28
+258,Sergi Bruguera,Spain,ESP,false,1:28
+259,Fernando Meligeni,Brazil,BRA,false,1:28
+260,Malivai Washington,United States,USA,false,1:28
+261,Alexandr Dolgopolov,Ukraine,UKR,false,1:28
+262,Jason Stoltenberg,Australia,AUS,false,1:27
+263,Amos Mansdorf,Israel,ISR,false,1:27
+264,Adrian Voinea,Romania,ROU,false,1:27
+265,Michael Stich,Germany,GER,false,1:27
+266,Andre Agassi,United States,USA,false,1:26
+267,Grant Stafford,South Africa,RSA,false,1:26
+268,Bohdan Ulihrach,Czech Republic,CZE,false,1:26
+269,Florian Mayer,Germany,GER,false,1:26
+270,Arnaud Boetsch,France,FRA,false,1:26
+271,Richey Reneberg,United States,USA,false,1:26
+272,Jakob Hlasek,Switzerland,SUI,false,1:26
+273,Daniel Nestor,Canada,CAN,false,1:26
+274,Bernd Karbacher,Germany,GER,false,1:26
+275,Brett Steven,New Zealand,NZL,false,1:26
+276,Kevin Kim,United States,USA,false,1:26
+277,Daniel Vacek,Czech Republic,CZE,false,1:25
+278,Magnus Larsson,Sweden,SWE,false,1:25
+279,Andrei Medvedev,Ukraine,UKR,false,1:25
+280,Olivier Delaitre,France,FRA,false,1:24
+281,Marcelo Rios,Chile,CHI,false,1:24
+282,David Prinosil,Germany,GER,false,1:24
+283,Lukas Rosol,Czech Republic,CZE,false,1:23
+284,Byron Black,Zimbabwe,ZIM,false,1:21
+285,Thomas Muster,Austria,AUT,false,1:20
+286,Goran Ivanisevic,Croatia,CRO,false,1:19

@@ -1,0 +1,21 @@
+rank,name,country_name,country_id,active,won,lost,played,wonLostPct
+1,Novak Djokovic,Serbia,SRB,true,968,194,1162,83.30%
+2,Rafael Nadal,Spain,ESP,true,1025,207,1232,83.20%
+3,Bjorn Borg,Sweden,SWE,false,650,138,788,82.49%
+4,Roger Federer,Switzerland,SUI,true,1245,275,1520,81.91%
+5,Jimmy Connors,United States,USA,false,1275,285,1560,81.73%
+6,John McEnroe,United States,USA,false,881,198,1079,81.65%
+7,Ivan Lendl,United States,USA,false,1069,242,1311,81.54%
+8,Rod Laver,Australia,AUS,false,571,145,716,79.75%
+9,Pete Sampras,United States,USA,false,762,222,984,77.44%
+10,Andy Murray,United Kingdom,GBR,true,680,204,884,76.92%
+11,Boris Becker,Germany,GER,false,713,214,927,76.91%
+12,Guillermo Vilas,Argentina,ARG,false,943,291,1234,76.42%
+13,Andre Agassi,United States,USA,false,870,274,1144,76.05%
+14,Arthur Ashe,United States,USA,false,783,258,1041,75.22%
+15,Stefan Edberg,Sweden,SWE,false,804,271,1075,74.79%
+16,Kent Carlsson,Sweden,SWE,false,160,54,214,74.77%
+17,Andy Roddick,United States,USA,false,610,213,823,74.12%
+18,Ken Rosewall,Australia,AUS,false,540,193,733,73.67%
+19,Alex Metreveli,Russian Federation,RUS,false,276,101,377,73.21%
+20,Ilie Nastase,Romania,ROU,false,891,333,1224,72.79%

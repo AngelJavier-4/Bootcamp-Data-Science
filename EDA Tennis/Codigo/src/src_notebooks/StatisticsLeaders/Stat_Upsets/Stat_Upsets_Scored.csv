@@ -1,0 +1,559 @@
+rank,name,country_name,country_id,active,value
+1,Fabrice Santoro,France,FRA,false,188
+2,Tommy Haas,Germany,GER,false,165
+3,Feliciano Lopez,Spain,ESP,true,160
+4,Mikhail Youzhny,Russian Federation,RUS,false,149
+5,Arnaud Clement,France,FRA,false,140
+5,Mark Woodforde,Australia,AUS,false,140
+7,Ivo Karlovic,Croatia,CRO,true,136
+8,Nicolas Kiefer,Germany,GER,false,135
+9,Greg Rusedski,United Kingdom,GBR,false,131
+9,Jonas Bjorkman,Sweden,SWE,false,131
+9,Julien Benneteau,France,FRA,false,131
+12,Radek Stepanek,Czech Republic,CZE,false,128
+13,Xavier Malisse,Belgium,BEL,false,127
+14,Juan Martin Del Potro,Argentina,ARG,true,126
+14,Philipp Kohlschreiber,Germany,GER,true,126
+16,Fernando Verdasco,Spain,ESP,true,125
+16,Guillermo Garcia Lopez,Spain,ESP,false,125
+16,Jeremy Chardy,France,FRA,true,125
+19,Jason Stoltenberg,Australia,AUS,false,124
+20,Ernests Gulbis,Latvia,LAT,true,122
+20,Lleyton Hewitt,Australia,AUS,false,122
+20,Stan Wawrinka,Switzerland,SUI,true,122
+23,Andreas Seppi,Italy,ITA,true,121
+24,John Alexander,Australia,AUS,false,120
+24,Sam Querrey,United States,USA,true,120
+26,Magnus Larsson,Sweden,SWE,false,119
+27,Marcos Baghdatis,Cyprus,CYP,false,118
+28,Ivan Ljubicic,Croatia,CRO,false,117
+28,Todd Martin,United States,USA,false,117
+30,Juan Monaco,Argentina,ARG,false,115
+30,Paul Henri Mathieu,France,FRA,false,115
+32,Gael Monfils,France,FRA,true,114
+32,Marc Rosset,Switzerland,SUI,false,114
+34,Mark Philippoussis,Australia,AUS,false,113
+35,Jeff Tarango,United States,USA,false,112
+35,Jurgen Melzer,Austria,AUT,false,112
+35,Magnus Gustafsson,Sweden,SWE,false,112
+35,Richard Fromberg,Australia,AUS,false,112
+35,Vincent Spadea,United States,USA,false,112
+40,Kenneth Carlsen,Denmark,DEN,false,110
+40,Raymond Moore,South Africa,RSA,false,110
+40,Thomas Enqvist,Sweden,SWE,false,110
+43,Jan Siemerink,Netherlands,NED,false,109
+43,Jarkko Nieminen,Finland,FIN,false,109
+45,Guy Forget,France,FRA,false,108
+45,Henri Leconte,France,FRA,false,108
+45,Karol Kucera,Slovakia,SVK,false,108
+45,Richey Reneberg,United States,USA,false,108
+49,Rainer Schuettler,Germany,GER,false,106
+50,Andrei Pavel,Romania,ROU,false,105
+50,Bill Scanlon,United States,USA,false,105
+50,Richard Gasquet,France,FRA,true,105
+50,Wayne Ferreira,South Africa,RSA,false,105
+54,Juan Carlos Ferrero,Spain,ESP,false,104
+54,Mats Wilander,Sweden,SWE,false,104
+54,Nicolas Mahut,France,FRA,true,104
+54,Vijay Amritraj,India,IND,false,104
+58,Jakob Hlasek,Switzerland,SUI,false,103
+58,Mardy Fish,United States,USA,false,103
+58,Marty Riessen,United States,USA,false,103
+61,Carlos Moya,Spain,ESP,false,102
+61,Jeff Borowiak,United States,USA,false,102
+61,Thomas Johansson,Sweden,SWE,false,102
+64,James Blake,United States,USA,false,101
+64,Michael Llodra,France,FRA,false,101
+64,Stefan Koubek,Austria,AUT,false,101
+67,Andre Agassi,United States,USA,false,100
+67,Cedric Pioline,France,FRA,false,100
+67,Ismail El Shafei,Egypt,EGY,false,100
+67,Mariano Zabaleta,Argentina,ARG,false,100
+67,Robert Lutz,United States,USA,false,100
+72,Francisco Clavet,Spain,ESP,false,99
+72,Paul Haarhuis,Netherlands,NED,false,99
+72,Petr Korda,Czech Republic,CZE,false,99
+75,Max Mirnyi,Belarus,BLR,false,98
+75,Ramesh Krishnan,India,IND,false,98
+75,Sandy Mayer,United States,USA,false,98
+78,Gilles Simon,France,FRA,true,97
+79,Alberto Martin,Spain,ESP,false,96
+79,Bohdan Ulihrach,Czech Republic,CZE,false,96
+81,David Nalbandian,Argentina,ARG,false,95
+81,Wally Masur,Australia,AUS,false,95
+83,Boris Becker,Germany,GER,false,94
+83,Goran Ivanisevic,Croatia,CRO,false,94
+83,John Fitzgerald,Australia,AUS,false,94
+83,Olivier Rochus,Belgium,BEL,false,94
+87,Marat Safin,Russian Federation,RUS,false,93
+87,Nicolas Lapentti,Ecuador,ECU,false,93
+87,Viktor Troicki,Serbia,SRB,true,93
+90,Diego Perez,Uruguay,URU,false,92
+90,Florian Mayer,Germany,GER,false,92
+90,Ilie Nastase,Romania,ROU,false,92
+90,Jiri Novak,Czech Republic,CZE,false,92
+90,Juan Ignacio Chela,Argentina,ARG,false,92
+90,Mark Edmondson,Australia,AUS,false,92
+90,Mikhail Kukushkin,Kazakhstan,KAZ,true,92
+90,Robin Haase,Netherlands,NED,true,92
+98,Albert Montanes,Spain,ESP,false,90
+98,Cliff Drysdale,South Africa,RSA,false,90
+98,David Prinosil,Germany,GER,false,90
+98,Jim Grabb,United States,USA,false,90
+98,Marcelo Filippini,Uruguay,URU,false,90
+98,Richard Krajicek,Netherlands,NED,false,90
+98,Roger Taylor,United Kingdom,GBR,false,90
+98,Todd Woodbridge,Australia,AUS,false,90
+98,Victor Pecci,Paraguay,PAR,false,90
+107,Albert Ramos,Spain,ESP,true,89
+107,Anders Jarryd,Sweden,SWE,false,89
+107,Andrei Chesnokov,Russian Federation,RUS,false,89
+107,David Wheaton,United States,USA,false,89
+107,Fernando Meligeni,Brazil,BRA,false,89
+107,Igor Andreev,Russian Federation,RUS,false,89
+107,Tomas Carbonell,Spain,ESP,false,89
+114,Denis Istomin,Uzbekistan,UZB,true,88
+114,Peter Fleming,United States,USA,false,88
+114,Thomas Muster,Austria,AUT,false,88
+114,Zeljko Franulovic,Croatia,CRO,false,88
+118,Byron Black,Zimbabwe,ZIM,false,87
+118,Nicolas Almagro,Spain,ESP,false,87
+120,Albert Costa,Spain,ESP,false,86
+120,Charlie Pasarell,United States,USA,false,86
+120,Felix Mantilla,Spain,ESP,false,86
+120,Gianluca Pozzi,Italy,ITA,false,86
+120,Robin Soderling,Sweden,SWE,false,86
+120,Scott Davis,United States,USA,false,86
+120,Tim Wilkison,United States,USA,false,86
+127,Andrea Gaudenzi,Italy,ITA,false,85
+127,Andrei Medvedev,Ukraine,UKR,false,85
+127,Carl Uwe Steeb,Germany,GER,false,85
+127,Hank Pfister,United States,USA,false,85
+127,Javier Sanchez,Spain,ESP,false,85
+127,Marc Kevin Goellner,Germany,GER,false,85
+127,Sjeng Schalken,Netherlands,NED,false,85
+127,Tomas Berdych,Czech Republic,CZE,false,85
+135,Fabio Fognini,Italy,ITA,true,84
+135,Hicham Arazi,Morocco,MAR,false,84
+135,Nick Saviano,United States,USA,false,84
+135,Wojtek Fibak,Poland,POL,false,84
+139,Andy Murray,United Kingdom,GBR,true,83
+139,David Ferrer,Spain,ESP,false,83
+139,Dmitry Tursunov,Russian Federation,RUS,false,83
+139,Grigor Dimitrov,Bulgaria,BUL,true,83
+139,Guillaume Raoux,France,FRA,false,83
+139,Jaime Fillol,Chile,CHI,false,83
+139,Mark Cox,United Kingdom,GBR,false,83
+139,Nikolay Davydenko,Russian Federation,RUS,false,83
+139,Robby Ginepri,United States,USA,false,83
+148,Alex Corretja,Spain,ESP,false,82
+148,Dominik Hrbaty,Slovakia,SVK,false,82
+148,Kim Warwick,Australia,AUS,false,82
+148,Nicolas Escude,France,FRA,false,82
+148,Sargis Sargsian,Armenia,ARM,false,82
+153,Arnaud Boetsch,France,FRA,false,81
+153,Guillermo Canas,Argentina,ARG,false,81
+153,Kevin Anderson,South Africa,RSA,true,81
+153,Nicklas Kulti,Sweden,SWE,false,81
+153,Sergi Bruguera,Spain,ESP,false,81
+153,Tim Henman,United Kingdom,GBR,false,81
+153,Tommy Robredo,Spain,ESP,true,81
+160,Agustin Calleri,Argentina,ARG,false,80
+160,Brad Drewett,Australia,AUS,false,80
+160,Gilles Muller,Luxembourg,LUX,false,80
+160,Leonardo Mayer,Argentina,ARG,true,80
+160,Marcel Granollers,Spain,ESP,true,80
+160,Renzo Furlan,Italy,ITA,false,80
+166,Aaron Krickstein,United States,USA,false,79
+166,Janko Tipsarevic,Serbia,SRB,false,79
+166,Jimmy Arias,United States,USA,false,79
+166,Jo Wilfried Tsonga,France,FRA,true,79
+166,Pat Cash,Australia,AUS,false,79
+171,Daniel Vacek,Czech Republic,CZE,false,78
+171,Pablo Cuevas,Uruguay,URU,true,78
+171,Thierry Tulasne,France,FRA,false,78
+171,Tim Gullikson,United States,USA,false,78
+175,Jim Courier,United States,USA,false,77
+175,Roger Federer,Switzerland,SUI,true,77
+175,Slava Dosedel,Czech Republic,CZE,false,77
+178,Brett Steven,New Zealand,NZL,false,76
+178,John Isner,United States,USA,true,76
+178,Jose Acasuso,Argentina,ARG,false,76
+178,Michael Chang,United States,USA,false,76
+178,Sergiy Stakhovsky,Ukraine,UKR,true,76
+183,Bernard Mitton,South Africa,RSA,false,75
+183,Jaime Yzaga,Peru,PER,false,75
+183,John Lloyd,United Kingdom,GBR,false,75
+183,Kei Nishikori,Japan,JPN,true,75
+187,Derrick Rostagno,United States,USA,false,74
+187,Emilio Sanchez,Spain,ESP,false,74
+187,Marin Cilic,Croatia,CRO,true,74
+187,Nicolas Massu,Chile,CHI,false,74
+187,Tom Gorman,United States,USA,false,74
+192,Amos Mansdorf,Israel,ISR,false,73
+192,Andrei Olhovskiy,Russian Federation,RUS,false,73
+192,Kevin Curren,United States,USA,false,73
+192,Shuzo Matsuoka,Japan,JPN,false,73
+192,Tim Mayotte,United States,USA,false,73
+197,Andrew Pattison,United States,USA,false,72
+197,Benoit Paire,France,FRA,true,72
+197,Jan Gunnarsson,Sweden,SWE,false,72
+197,Jeremy Bates,United Kingdom,GBR,false,72
+197,Jordi Arrese,Spain,ESP,false,72
+197,Mischa Zverev,Germany,GER,true,72
+197,Paul Mcnamee,Australia,AUS,false,72
+197,Ronald Agenor,United States,USA,false,72
+197,Tom Gullikson,United States,USA,false,72
+206,Brian Teacher,United States,USA,false,71
+206,Patrick McEnroe,United States,USA,false,71
+206,Victor Hanescu,Romania,ROU,false,71
+206,Vitas Gerulaitis,United States,USA,false,71
+210,Christian Bergstrom,Sweden,SWE,false,70
+210,Galo Blanco,Spain,ESP,false,70
+210,Heinz Gunthardt,Switzerland,SUI,false,70
+210,Younes El Aynaoui,Morocco,MAR,false,70
+214,Alejandro Falla,Colombia,COL,false,69
+214,Alexandr Dolgopolov,Ukraine,UKR,false,69
+214,Dick Stockton,United States,USA,false,69
+214,Fernando Gonzalez,Chile,CHI,false,69
+214,Horacio De La Pena,Argentina,ARG,false,69
+214,Jan Lennard Struff,Germany,GER,true,69
+214,Jan Michael Gambill,United States,USA,false,69
+214,Joao Sousa,Portugal,POR,true,69
+214,Jose Higueras,Spain,ESP,false,69
+214,Marcelo Rios,Chile,CHI,false,69
+214,Raul Ramirez,Mexico,MEX,false,69
+214,Sammy Giammalva Jr,United States,USA,false,69
+214,Santiago Giraldo,Colombia,COL,false,69
+214,Terry Moor,United States,USA,false,69
+214,Teymuraz Gabashvili,Russian Federation,RUS,false,69
+214,Tomas Smid,Czech Republic,CZE,false,69
+230,Adrian Mannarino,France,FRA,true,68
+230,Benjamin Becker,Germany,GER,false,68
+230,Carlos Costa,Spain,ESP,false,68
+230,Fernando Vicente,Spain,ESP,false,68
+230,Olivier Delaitre,France,FRA,false,68
+230,Pablo Arraya,Peru,PER,false,68
+230,Taylor Dent,United States,USA,false,68
+237,Bernd Karbacher,Germany,GER,false,67
+237,Colin Dibley,Australia,AUS,false,67
+237,Federico Delbonis,Argentina,ARG,true,67
+237,Javier Frana,Argentina,ARG,false,67
+237,Jerome Golmard,France,FRA,false,67
+237,Juan Aguilera,Spain,ESP,false,67
+237,Martin Damm,Czech Republic,CZE,false,67
+237,Stefan Edberg,Sweden,SWE,false,67
+245,Adriano Panatta,Italy,ITA,false,66
+245,Adrian Voinea,Romania,ROU,false,66
+245,Alexander Volkov,Russian Federation,RUS,false,66
+245,Donald Young,United States,USA,true,66
+245,Karim Alami,Morocco,MAR,false,66
+245,Magnus Norman,Sweden,SWE,false,66
+245,Manuel Orantes,Spain,ESP,false,66
+245,Pablo Andujar,Spain,ESP,true,66
+245,Wayne Arthurs,Australia,AUS,false,66
+254,Andres Gomez,Ecuador,ECU,false,65
+254,Hyung Taik Lee,"Korea, Republic of",KOR,false,65
+254,Jimmy Brown,United States,USA,false,65
+254,Jonathan Stark,United States,USA,false,65
+254,Mario Ancic,Croatia,CRO,false,65
+254,Marty Davis,United States,USA,false,65
+254,Stan Smith,United States,USA,false,65
+254,Vasek Pospisil,Canada,CAN,true,65
+254,Yannick Noah,France,FRA,false,65
+263,Bernard Tomic,Australia,AUS,true,64
+263,Diego Nargiso,Italy,ITA,false,64
+263,Dudi Sela,Israel,ISR,false,64
+263,Florent Serra,France,FRA,false,64
+263,Justin Gimelstob,United States,USA,false,64
+263,Potito Starace,Italy,ITA,false,64
+263,Scott Draper,Australia,AUS,false,64
+263,Sherwood Stewart,United States,USA,false,64
+263,Tom Okker,Netherlands,NED,false,64
+272,Balazs Taroczy,Hungary,HUN,false,63
+272,Carlos Berlocq,Argentina,ARG,false,63
+272,Davide Sanguinetti,Italy,ITA,false,63
+272,Dick Crealy,Australia,AUS,false,63
+272,Marcos Ondruska,South Africa,RSA,false,63
+272,Michiel Schapers,Netherlands,NED,false,63
+272,Patrick Rafter,Australia,AUS,false,63
+272,Ricardas Berankis,Lithuania,LTU,true,63
+272,Yen Hsun Lu,"Taiwan, Province of China",TPE,true,63
+281,Brad Gilbert,United States,USA,false,62
+281,Bruce Manson,United States,USA,false,62
+281,Corrado Barazzutti,Italy,ITA,false,62
+281,Joakim Nystrom,Sweden,SWE,false,62
+281,Karel Novacek,Czech Republic,CZE,false,62
+281,Mikael Tillstrom,Sweden,SWE,false,62
+281,Patrik Kuhnen,Germany,GER,false,62
+281,Sebastien Grosjean,France,FRA,false,62
+281,Simone Bolelli,Italy,ITA,false,62
+281,Steve Johnson,United States,USA,true,62
+281,Thomaz Bellucci,Brazil,BRA,true,62
+292,Allan Stone,Australia,AUS,false,61
+292,Butch Walts,United States,USA,false,61
+292,Ivan Lendl,United States,USA,false,61
+292,Jack Sock,United States,USA,true,61
+292,Phil Dent,Australia,AUS,false,61
+292,Pierre Hugues Herbert,France,FRA,true,61
+292,Russell Simpson,New Zealand,NZL,false,61
+292,Sebastien Lareau,Canada,CAN,false,61
+300,Albert Portas,Spain,ESP,false,60
+300,Borna Coric,Croatia,CRO,true,60
+300,David Pate,United States,USA,false,60
+300,Franco Squillari,Argentina,ARG,false,60
+300,Ryan Harrison,United States,USA,true,60
+300,Steve Darcis,Belgium,BEL,false,60
+300,Steve Krulevitz,United States,USA,false,60
+307,Brian Gottfried,United States,USA,false,59
+307,Dusan Lajovic,Serbia,SRB,true,59
+307,Fernando Luna,Spain,ESP,false,59
+307,Horst Skoff,Austria,AUT,false,59
+307,Jonas Svensson,Sweden,SWE,false,59
+307,Malivai Washington,United States,USA,false,59
+307,Novak Djokovic,Serbia,SRB,true,59
+307,Sandon Stolle,Australia,AUS,false,59
+307,Stefano Pescosolido,Italy,ITA,false,59
+316,Aljaz Bedene,Slovenia,SLO,true,58
+316,Andrei Cherkasov,Russian Federation,RUS,false,58
+316,Andrey Rublev,Russian Federation,RUS,true,58
+316,Chris Lewis Nzl,New Zealand,NZL,false,58
+316,Daniel Gimeno Traver,Spain,ESP,false,58
+316,Daniel Nestor,Canada,CAN,false,58
+316,Francisco Gonzalez,Paraguay,PAR,false,58
+316,Jiri Vesely,Czech Republic,CZE,true,58
+316,Johan Kriek,United States,USA,false,58
+316,Michael Stich,Germany,GER,false,58
+316,Nikola Pilic,Croatia,CRO,false,58
+316,Paolo Cane,Italy,ITA,false,58
+316,Tony Roche,Australia,AUS,false,58
+329,Buster C Mottram,United Kingdom,GBR,false,57
+329,Gaston Gaudio,Argentina,ARG,false,57
+329,John Newcombe,Australia,AUS,false,57
+329,Pat Dupre,United States,USA,false,57
+329,Pierre Barthes,France,FRA,false,57
+329,Raemon Sluiter,Netherlands,NED,false,57
+329,Rafael Nadal,Spain,ESP,true,57
+336,Bob Hewitt,South Africa,RSA,false,56
+336,Brian Fairlie,New Zealand,NZL,false,56
+336,Christophe Rochus,Belgium,BEL,false,56
+336,Dominic Thiem,Austria,AUT,true,56
+336,Filippo Volandri,Italy,ITA,false,56
+336,Franco Davin,Argentina,ARG,false,56
+336,Ivan Dodig,Croatia,CRO,false,56
+336,John McEnroe,United States,USA,false,56
+336,Martin Jaite,Argentina,ARG,false,56
+336,Onny Parun,New Zealand,NZL,false,56
+336,Pascal Portes,France,FRA,false,56
+336,Roscoe Tanner,United States,USA,false,56
+336,Sergio Casal,Spain,ESP,false,56
+336,Simon Youl,Australia,AUS,false,56
+350,Christo Van Rensburg,South Africa,RSA,false,55
+350,Claudio Mezzadri,Switzerland,SUI,false,55
+350,Colin Dowdeswell,United Kingdom,GBR,false,55
+350,Geoff Masters,Australia,AUS,false,55
+350,Harold Solomon,United States,USA,false,55
+350,Hernan Gumy,Argentina,ARG,false,55
+350,Lars Jonsson,Sweden,SWE,false,55
+350,Luis Horna,Peru,PER,false,55
+350,Marian Vajda,Slovakia,SVK,false,55
+350,Milan Srejber,Czech Republic,CZE,false,55
+350,Peter Lundgren,Sweden,SWE,false,55
+350,Trey Waltke,United States,USA,false,55
+362,Darren Cahill,Australia,AUS,false,54
+362,Gustavo Kuerten,Brazil,BRA,false,54
+362,Jan Kodes,Czech Republic,CZE,false,54
+362,Martin Klizan,Slovakia,SVK,true,54
+362,Omar Camporese,Italy,ITA,false,54
+362,Pedro Rebolledo,Chile,CHI,false,54
+362,Ray Ruffels,Australia,AUS,false,54
+362,Shlomo Glickstein,Israel,ISR,false,54
+362,Thierry Champion,France,FRA,false,54
+371,David Goffin,Belgium,BEL,true,53
+371,Hendrik Dreekmann,Germany,GER,false,53
+371,Jimmy Connors,United States,USA,false,53
+371,John Sadri,United States,USA,false,53
+371,Jordi Burillo,Spain,ESP,false,53
+371,Luiz Mattar,Brazil,BRA,false,53
+371,Lukas Rosol,Czech Republic,CZE,false,53
+371,Nick Kyrgios,Australia,AUS,true,53
+371,Paradorn Srichaphan,Thailand,THA,false,53
+371,Ramon Delgado,Paraguay,PAR,false,53
+381,Arthur Ashe,United States,USA,false,52
+381,Billy Martin,United States,USA,false,52
+381,Bob Carmichael,Australia,AUS,false,52
+381,Cliff Richey,United States,USA,false,52
+381,Danie Visser,South Africa,RSA,false,52
+381,Gene Mayer,United States,USA,false,52
+381,Pablo Carreno Busta,Spain,ESP,true,52
+388,Alberto Berasategui,Spain,ESP,false,51
+388,Antony Dupuis,France,FRA,false,51
+388,Bryan Shelton,United States,USA,false,51
+388,Guillermo Vilas,Argentina,ARG,false,51
+388,Hans Gildemeister,Chile,CHI,false,51
+388,Ion Tiriac,Romania,ROU,false,51
+388,Jean Philippe Fleurian,France,FRA,false,51
+388,Lars Burgsmuller,Germany,GER,false,51
+388,Mariano Puerta,Argentina,ARG,false,51
+388,Pete Sampras,United States,USA,false,51
+388,Ross Case,Australia,AUS,false,51
+388,Todd Witsken,United States,USA,false,51
+388,Van Winitsky,United States,USA,false,51
+388,Yevgeny Kafelnikov,Russian Federation,RUS,false,51
+402,Andreas Maurer,Germany,GER,false,50
+402,Cassio Motta,Brazil,BRA,false,50
+402,Damir Dzumhur,Bosnia and Herzegovina,BIH,true,50
+402,Fritz Buehning,United States,USA,false,50
+402,Goran Prpic,Croatia,CRO,false,50
+402,Kelly Evernden,New Zealand,NZL,false,50
+402,Victor Amaya,United States,USA,false,50
+409,Claudio Panatta,Italy,ITA,false,49
+409,Eric Jelen,Germany,GER,false,49
+409,Jacco Eltingh,Netherlands,NED,false,49
+409,Milos Raonic,Canada,CAN,true,49
+409,Rolf Gehring,Germany,GER,false,49
+409,Ulrich Pinner,Germany,GER,false,49
+415,Alex Obrien,United States,USA,false,48
+415,Eddie Dibbs,United States,USA,false,48
+415,Fred Stolle,Australia,AUS,false,48
+415,Lukas Lacko,Slovakia,SVK,true,48
+415,Matthew Ebden,Australia,AUS,true,48
+415,Miloslav Mecir,Slovakia,SVK,false,48
+415,Pavel Slozil,Czech Republic,CZE,false,48
+415,Thomaz Koch,Brazil,BRA,false,48
+423,Alexander Zverev,Germany,GER,true,47
+423,Chris Woodruff,United States,USA,false,47
+423,Grant Stafford,South Africa,RSA,false,47
+423,Kjell Johansson,Sweden,SWE,false,47
+423,Mel Purcell,United States,USA,false,47
+423,Michael Berrer,Germany,GER,false,47
+423,Mike Cahill,United States,USA,false,47
+423,Patrice Dominguez,France,FRA,false,47
+423,Paul Annacone,United States,USA,false,47
+432,Daniil Medvedev,Russian Federation,RUS,true,46
+432,Erik Van Dillen,United States,USA,false,46
+432,Gilad Bloom,Israel,ISR,false,46
+432,Kristof Vliegen,Belgium,BEL,false,46
+432,Lukasz Kubot,Poland,POL,false,46
+432,Paul Kronk,Australia,AUS,false,46
+432,Ricardo Cano,Argentina,ARG,false,46
+432,Roy Emerson,Australia,AUS,false,46
+432,Taylor Harry Fritz,United States,USA,true,46
+432,Thomas Hogstedt,Sweden,SWE,false,46
+442,Dennis Ralston,United States,USA,false,45
+442,Eliot Teltscher,United States,USA,false,45
+442,Filip Dewulf,Belgium,BEL,false,45
+442,Hans Kary,Austria,AUT,false,45
+442,Peter Mcnamara,Australia,AUS,false,45
+442,Roberto Bautista Agut,Spain,ESP,true,45
+442,Sashi Menon,India,IND,false,45
+449,Byron Bertram,South Africa,RSA,false,44
+449,Carlos Kirmayr,Brazil,BRA,false,44
+449,Georges Goven,France,FRA,false,44
+449,Libor Pimek,Belgium,BEL,false,44
+449,Malek Jaziri,Tunisia,TUN,true,44
+449,Michael Russell,United States,USA,false,44
+449,Slobodan Zivojinovic,Serbia,SRB,false,44
+456,Alex Antonitsch,Austria,AUT,false,43
+456,Andy Roddick,United States,USA,false,43
+456,Christophe Roger Vasselin,France,FRA,false,43
+456,Gianni Ocleppo,Italy,ITA,false,43
+456,Marko Ostoja,Croatia,CRO,false,43
+456,Nikoloz Basilashvili,Georgia,GEO,true,43
+462,Diego Sebastian Schwartzman,Argentina,ARG,true,42
+462,Francesco Cancellotti,Italy,ITA,false,42
+462,Gary Muller,South Africa,RSA,false,42
+462,George Hardie,United States,USA,false,42
+462,Guido Pella,Argentina,ARG,true,42
+462,Henrik Holm,Sweden,SWE,false,42
+462,Igor Kunitsyn,Russian Federation,RUS,false,42
+462,Jiri Hrebec,Czech Republic,CZE,false,42
+462,John Millman,Australia,AUS,true,42
+471,Christian Ruud,Norway,NOR,false,41
+471,Edouard Roger Vasselin,France,FRA,false,41
+471,Henrik Sundstrom,Sweden,SWE,false,41
+471,Ivan Molina,Colombia,COL,false,41
+471,Juan Antonio Marin,Costa Rica,CRC,false,41
+471,Paolo Bertolucci,Italy,ITA,false,41
+477,Belus Prajoux,Chile,CHI,false,40
+477,Jose Luis Clerc,Argentina,ARG,false,40
+477,Karen Khachanov,Russian Federation,RUS,true,40
+477,Mark Dickson,United States,USA,false,40
+477,Patrick Proisy,France,FRA,false,40
+482,Alberto Mancini,Argentina,ARG,false,39
+482,Dan Goldie,United States,USA,false,39
+482,Jairo Velasco,Spain,ESP,false,39
+482,Peter Elter,Germany,GER,false,39
+482,Stefan Simonsson,Sweden,SWE,false,39
+487,Bjorn Phau,Germany,GER,false,38
+487,Damir Keretic,Germany,GER,false,38
+487,Eddie Edwards,South Africa,RSA,false,38
+487,Ken Rosewall,Australia,AUS,false,38
+487,Marc Gicquel,France,FRA,false,38
+487,Peter Feigl,Austria,AUT,false,38
+493,Barry Phillips Moore,Australia,AUS,false,37
+493,Frew Mcmillan,South Africa,RSA,false,37
+493,Horacio Zeballos,Argentina,ARG,true,37
+493,Jim Delaney,United States,USA,false,37
+493,John Yuill,South Africa,RSA,false,37
+493,Mikael Pernfors,Sweden,SWE,false,37
+493,Richard Pancho Gonzales,United States,USA,false,37
+493,Syd Ball,Australia,AUS,false,37
+493,Vladimir Zednik,Czech Republic,CZE,false,37
+502,Andrew Ilie,Australia,AUS,false,36
+502,Gerald Battrick,United Kingdom,GBR,false,36
+502,Haroon Rahim,Pakistan,PAK,false,36
+502,Lucas Pouille,France,FRA,true,36
+502,Nicolas Pereira,"Venezuela, Bolivarian Republic of",VEN,false,36
+502,Ruben Ramirez Hidalgo,Spain,ESP,false,36
+508,Fred Mcnair,United States,USA,false,35
+508,Guillermo Coria,Argentina,ARG,false,35
+508,Karl Meiler,Germany,GER,false,35
+508,Paul Goldstein,United States,USA,false,35
+508,Vincent Van Patten,United States,USA,false,35
+513,Eduardo Bengoechea,Argentina,ARG,false,34
+514,Andres Gimeno,Spain,ESP,false,33
+514,Chip Hooper,United States,USA,false,33
+514,Francois Jauffret,France,FRA,false,33
+514,Lawson Duncan,United States,USA,false,33
+518,Anand Amritraj,India,IND,false,32
+518,Antonio Zugarelli,Italy,ITA,false,32
+518,Bjorn Borg,Sweden,SWE,false,32
+518,David Sanchez,Spain,ESP,false,32
+518,Guillermo Perez Roldan,Argentina,ARG,false,32
+518,John James,Australia,AUS,false,32
+518,Stefanos Tsitsipas,Greece,GRE,true,32
+518,Steve Denton,United States,USA,false,32
+526,Gilbert Schaller,Austria,AUT,false,31
+526,Kyle Edmund,United Kingdom,GBR,true,31
+528,Antonio Munoz,Spain,ESP,false,30
+528,Denis Shapovalov,Canada,CAN,true,30
+528,Juan Gisbert,Spain,ESP,false,30
+528,Rod Frawley,Australia,AUS,false,30
+532,Jun Kuki,Japan,JPN,false,29
+533,Clark Graebner,United States,USA,false,28
+533,Ove Nils Bengtson,Sweden,SWE,false,28
+533,Paolo Lorenzi,Italy,ITA,true,28
+536,Alex Metreveli,Russian Federation,RUS,false,27
+536,Jurgen Fassbender,Germany,GER,false,27
+536,Nduka Odizor,Nigeria,NGR,false,27
+539,Patricio Cornejo,Chile,CHI,false,26
+539,Robert Maud,South Africa,RSA,false,26
+541,Nicola Spear,Serbia,SRB,false,25
+542,Jay Berger,United States,USA,false,24
+542,Mike Estep,United States,USA,false,24
+544,John Feaver,United Kingdom,GBR,false,23
+545,Graham Stilwell,United Kingdom,GBR,false,22
+545,Kent Carlsson,Sweden,SWE,false,22
+545,Rod Laver,Australia,AUS,false,22
+548,Harald Elschenbroich,Germany,GER,false,21
+548,Jim Osborne,United States,USA,false,21
+550,Han Jurgen Pohmann,Germany,GER,false,20
+551,Jim Mcmanus,United States,USA,false,19
+552,Bob Giltinan,Australia,AUS,false,18
+553,Jaime Pinto Bravo,Chile,CHI,false,17
+553,Joaquin Loyo Mayo,Mexico,MEX,false,17
+555,Milan Holecek,Czech Republic,CZE,false,16
+556,Paul Gerken,United States,USA,false,14
+557,Bill Bowrey,Australia,AUS,false,10
+558,Tom Edlefsen,United States,USA,false,7

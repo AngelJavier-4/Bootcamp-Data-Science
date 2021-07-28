@@ -1,0 +1,563 @@
+rank,name,country_name,country_id,active,value
+1,Guillermo Perez Roldan,Argentina,ARG,false,35.83%
+2,Francisco Roig,Spain,ESP,false,35.57%
+3,Guillermo Coria,Argentina,ARG,false,35.43%
+4,Franco Davin,Argentina,ARG,false,34.72%
+5,Bart Wuyts,Belgium,BEL,false,34.62%
+6,Magnus Gustafsson,Sweden,SWE,false,34.30%
+7,Rafael Nadal,Spain,ESP,true,34.24%
+8,Frederic Fontang,France,FRA,false,33.96%
+9,Jordi Arrese,Spain,ESP,false,33.94%
+10,Horacio De La Pena,Argentina,ARG,false,33.85%
+11,Novak Djokovic,Serbia,SRB,true,33.77%
+12,Jaime Oncins,Brazil,BRA,false,33.71%
+13,Slava Dosedel,Czech Republic,CZE,false,33.70%
+14,Goran Prpic,Croatia,CRO,false,33.66%
+15,Alberto Berasategui,Spain,ESP,false,33.59%
+16,Tomas Carbonell,Spain,ESP,false,33.59%
+17,Dimitri Poliakov,Ukraine,UKR,false,33.49%
+18,David Ferrer,Spain,ESP,false,33.39%
+19,Diego Sebastian Schwartzman,Argentina,ARG,true,33.35%
+20,Andy Murray,United Kingdom,GBR,true,33.31%
+21,Martin Jaite,Argentina,ARG,false,33.26%
+22,Mark Koevermans,Netherlands,NED,false,33.20%
+23,Filippo Volandri,Italy,ITA,false,33.12%
+24,Stefan Edberg,Sweden,SWE,false,33.06%
+25,Nikolay Davydenko,Russian Federation,RUS,false,33.04%
+26,Gilbert Schaller,Austria,AUT,false,33.02%
+27,Guillermo Canas,Argentina,ARG,false,33.02%
+28,Andres Gomez,Ecuador,ECU,false,32.99%
+29,Karol Kucera,Slovakia,SVK,false,32.95%
+30,Andrei Chesnokov,Russian Federation,RUS,false,32.90%
+31,Flavio Saretta,Brazil,BRA,false,32.80%
+32,Juan Ignacio Chela,Argentina,ARG,false,32.73%
+33,Juan Monaco,Argentina,ARG,false,32.72%
+34,Brad Gilbert,United States,USA,false,32.66%
+35,Sergi Bruguera,Spain,ESP,false,32.55%
+36,David Sanchez,Spain,ESP,false,32.44%
+37,Marcelo Filippini,Uruguay,URU,false,32.41%
+38,Roger Federer,Switzerland,SUI,true,32.37%
+39,Marcos Ondruska,South Africa,RSA,false,32.26%
+40,Andrei Medvedev,Ukraine,UKR,false,32.26%
+41,Horst Skoff,Austria,AUT,false,32.25%
+42,Carlos Costa,Spain,ESP,false,32.25%
+43,Michael Chang,United States,USA,false,32.24%
+44,Jimmy Connors,United States,USA,false,32.20%
+45,Jannik Sinner,Italy,ITA,true,32.17%
+46,Christian Bergstrom,Sweden,SWE,false,32.17%
+47,Jonas Svensson,Sweden,SWE,false,32.16%
+48,Lleyton Hewitt,Australia,AUS,false,32.07%
+49,Alex Corretja,Spain,ESP,false,32.06%
+50,Thomas Muster,Austria,AUT,false,32.05%
+51,David Nalbandian,Argentina,ARG,false,31.98%
+52,Gaston Gaudio,Argentina,ARG,false,31.94%
+53,Jaume Munar,Spain,ESP,true,31.92%
+54,John McEnroe,United States,USA,false,31.88%
+55,Emilio Sanchez,Spain,ESP,false,31.87%
+56,Damir Dzumhur,Bosnia and Herzegovina,BIH,true,31.86%
+57,Petr Korda,Czech Republic,CZE,false,31.86%
+58,Gael Monfils,France,FRA,true,31.83%
+59,Jaime Yzaga,Peru,PER,false,31.80%
+60,Fabio Fognini,Italy,ITA,true,31.76%
+61,Renzo Furlan,Italy,ITA,false,31.73%
+62,Flavio Cipolla,Italy,ITA,false,31.71%
+63,Marton Fucsovics,Hungary,HUN,true,31.71%
+64,Arnaud Di Pasquale,France,FRA,false,31.70%
+65,Javier Sanchez,Spain,ESP,false,31.66%
+66,Franco Squillari,Argentina,ARG,false,31.65%
+67,Thierry Champion,France,FRA,false,31.63%
+68,Francisco Clavet,Spain,ESP,false,31.63%
+69,Tim Henman,United Kingdom,GBR,false,31.60%
+70,Fabrice Santoro,France,FRA,false,31.54%
+71,Gilad Bloom,Israel,ISR,false,31.52%
+72,Benoit Paire,France,FRA,true,31.51%
+73,Grant Stafford,South Africa,RSA,false,31.49%
+74,Jason Stoltenberg,Australia,AUS,false,31.45%
+75,Mauricio Hadad,Colombia,COL,false,31.42%
+76,Andre Agassi,United States,USA,false,31.37%
+77,Mariano Zabaleta,Argentina,ARG,false,31.34%
+78,Fernando Meligeni,Brazil,BRA,false,31.34%
+79,Luis Herrera,Mexico,MEX,false,31.32%
+80,Ivan Lendl,United States,USA,false,31.32%
+81,Fernando Vicente,Spain,ESP,false,31.30%
+82,Gilles Simon,France,FRA,true,31.29%
+83,Andrea Gaudenzi,Italy,ITA,false,31.27%
+84,Marcelo Rios,Chile,CHI,false,31.27%
+85,Alberto Martin,Spain,ESP,false,31.25%
+86,David Goffin,Belgium,BEL,true,31.22%
+87,Oliver Gross,Germany,GER,false,31.22%
+88,Juan Antonio Marin,Costa Rica,CRC,false,31.18%
+89,Gastao Elias,Portugal,POR,false,31.13%
+90,Karim Alami,Morocco,MAR,false,31.13%
+91,Cedrik Marcel Stebe,Germany,GER,true,31.13%
+92,Jimmy Arias,United States,USA,false,31.12%
+93,Christian Ruud,Norway,NOR,false,31.08%
+94,Christo Van Rensburg,South Africa,RSA,false,31.08%
+95,Jean Rene Lisnard,Monaco,MON,false,31.03%
+96,Carlos Moya,Spain,ESP,false,31.02%
+97,Markus Hipfl,Austria,AUT,false,31.00%
+98,Carlos Berlocq,Argentina,ARG,false,30.96%
+99,Henrik Holm,Sweden,SWE,false,30.96%
+100,Santiago Ventura,Spain,ESP,false,30.86%
+101,Sebastien Grosjean,France,FRA,false,30.84%
+102,Jiri Novak,Czech Republic,CZE,false,30.83%
+103,Christian Garin,Chile,CHI,true,30.80%
+104,Olivier Mutis,France,FRA,false,30.79%
+105,Anders Jarryd,Sweden,SWE,false,30.78%
+106,Hernan Gumy,Argentina,ARG,false,30.75%
+107,Claudio Mezzadri,Switzerland,SUI,false,30.74%
+108,Tommy Robredo,Spain,ESP,true,30.73%
+109,Felix Mantilla,Spain,ESP,false,30.72%
+110,Corentin Moutet,France,FRA,true,30.70%
+111,Gabriel Markus,Argentina,ARG,false,30.66%
+112,Pablo Andujar,Spain,ESP,true,30.65%
+113,Rainer Schuettler,Germany,GER,false,30.64%
+114,Jordi Burillo,Spain,ESP,false,30.59%
+115,Michel Kratochvil,Switzerland,SUI,false,30.58%
+116,Marcos Aurelio Gorriz,Spain,ESP,false,30.58%
+117,Alexander Zverev,Germany,GER,true,30.57%
+118,Nicolas Escude,France,FRA,false,30.57%
+119,Henri Leconte,France,FRA,false,30.54%
+120,Roberto Bautista Agut,Spain,ESP,true,30.52%
+121,Aaron Krickstein,United States,USA,false,30.52%
+122,Kei Nishikori,Japan,JPN,true,30.50%
+123,Agustin Calleri,Argentina,ARG,false,30.50%
+124,Paul Goldstein,United States,USA,false,30.50%
+125,Fernando Verdasco,Spain,ESP,true,30.47%
+126,Albert Costa,Spain,ESP,false,30.46%
+127,Michael Stich,Germany,GER,false,30.45%
+128,Malivai Washington,United States,USA,false,30.36%
+129,Michal Tabara,Czech Republic,CZE,false,30.35%
+130,Xavier Malisse,Belgium,BEL,false,30.32%
+131,Marcel Granollers,Spain,ESP,true,30.31%
+132,Andrey Rublev,Russian Federation,RUS,true,30.30%
+133,Richard Gasquet,France,FRA,true,30.28%
+134,Viktor Troicki,Serbia,SRB,true,30.28%
+135,Karel Novacek,Czech Republic,CZE,false,30.28%
+136,Dominic Thiem,Austria,AUT,true,30.26%
+137,Lars Jonsson,Sweden,SWE,false,30.26%
+138,Maximo Gonzalez,Argentina,ARG,false,30.23%
+139,Stefan Koubek,Austria,AUT,false,30.22%
+140,Cameron Norrie,United Kingdom,GBR,true,30.19%
+141,Jonas Bjorkman,Sweden,SWE,false,30.18%
+142,James Blake,United States,USA,false,30.16%
+143,Dudi Sela,Israel,ISR,false,30.16%
+144,Diego Nargiso,Italy,ITA,false,30.15%
+145,Arnaud Boetsch,France,FRA,false,30.14%
+146,Carl Uwe Steeb,Germany,GER,false,30.14%
+147,Derrick Rostagno,United States,USA,false,30.13%
+148,Todd Woodbridge,Australia,AUS,false,30.12%
+149,Daniil Medvedev,Russian Federation,RUS,true,30.12%
+150,Julian Alonso,Spain,ESP,false,30.11%
+151,Juan Carlos Ferrero,Spain,ESP,false,30.11%
+152,Marin Cilic,Croatia,CRO,true,30.07%
+153,Hyeon Chung,"Korea, Republic of",KOR,true,30.05%
+154,Todd Witsken,United States,USA,false,30.02%
+155,Mark Woodforde,Australia,AUS,false,30.01%
+156,Mikhail Youzhny,Russian Federation,RUS,false,30.01%
+157,Gianluca Pozzi,Italy,ITA,false,30.01%
+158,Wayne Ferreira,South Africa,RSA,false,29.99%
+159,Nicolas Kiefer,Germany,GER,false,29.98%
+160,Stan Wawrinka,Switzerland,SUI,true,29.97%
+161,Jan Hernych,Czech Republic,CZE,false,29.97%
+162,Juan Martin Del Potro,Argentina,ARG,true,29.96%
+163,Yevgeny Kafelnikov,Russian Federation,RUS,false,29.96%
+164,Nicolas Lapentti,Ecuador,ECU,false,29.94%
+165,Jean Philippe Fleurian,France,FRA,false,29.92%
+166,Alex De Minaur,Australia,AUS,true,29.91%
+167,Bernd Karbacher,Germany,GER,false,29.90%
+168,Daniel Evans,United Kingdom,GBR,true,29.88%
+169,Roberto Carballes Baena,Spain,ESP,true,29.86%
+170,Jurgen Melzer,Austria,AUT,false,29.83%
+171,Guillermo Garcia Lopez,Spain,ESP,false,29.83%
+172,Igor Andreev,Russian Federation,RUS,false,29.82%
+173,Blaz Kavcic,Slovenia,SLO,false,29.81%
+174,Omar Camporese,Italy,ITA,false,29.78%
+175,Alberto Mancini,Argentina,ARG,false,29.74%
+176,Bohdan Ulihrach,Czech Republic,CZE,false,29.73%
+177,Dominik Hrbaty,Slovakia,SVK,false,29.73%
+178,Cecil Mamiit,Philippines,PHI,false,29.73%
+179,Jim Courier,United States,USA,false,29.73%
+180,Jacobo Diaz,Spain,ESP,false,29.72%
+181,Richey Reneberg,United States,USA,false,29.72%
+182,Radek Stepanek,Czech Republic,CZE,false,29.72%
+183,Frederico Gil,Portugal,POR,false,29.71%
+184,Brett Steven,New Zealand,NZL,false,29.70%
+185,Nuno Marques,Portugal,POR,false,29.70%
+186,Nicolas Massu,Chile,CHI,false,29.68%
+187,Albert Ramos,Spain,ESP,true,29.65%
+188,Mats Wilander,Sweden,SWE,false,29.64%
+189,Grigor Dimitrov,Bulgaria,BUL,true,29.64%
+190,Roberto Carretero,Spain,ESP,false,29.60%
+191,Paul Capdeville,Chile,CHI,false,29.57%
+192,Magnus Norman,Sweden,SWE,false,29.55%
+193,Ronald Agenor,United States,USA,false,29.54%
+194,Alex Antonitsch,Austria,AUT,false,29.51%
+195,Stefano Pescosolido,Italy,ITA,false,29.49%
+196,Sargis Sargsian,Armenia,ARM,false,29.49%
+197,Marcos Baghdatis,Cyprus,CYP,false,29.48%
+198,Sjeng Schalken,Netherlands,NED,false,29.48%
+199,Grant Connell,Canada,CAN,false,29.46%
+200,Ilya Ivashka,Belarus,BLR,true,29.45%
+201,Cristiano Caratti,Italy,ITA,false,29.44%
+202,Robin Soderling,Sweden,SWE,false,29.43%
+203,Mario Ancic,Croatia,CRO,false,29.42%
+204,Fernando Gonzalez,Chile,CHI,false,29.41%
+205,Laslo Djere,Serbia,SRB,true,29.41%
+206,Mark Petchey,United Kingdom,GBR,false,29.40%
+207,Andreas Seppi,Italy,ITA,true,29.39%
+208,Rogerio Dutra Silva,Brazil,BRA,false,29.38%
+209,Jarkko Nieminen,Finland,FIN,false,29.38%
+210,Davide Sanguinetti,Italy,ITA,false,29.37%
+211,Vincent Spadea,United States,USA,false,29.37%
+212,Andrei Pavel,Romania,ROU,false,29.37%
+213,Andre Sa,Brazil,BRA,false,29.37%
+214,Patrick Baur,Germany,GER,false,29.35%
+215,Felix Auger Aliassime,Canada,CAN,true,29.35%
+216,Bjorn Phau,Germany,GER,false,29.35%
+217,Sergio Roitman,Argentina,ARG,false,29.33%
+218,Richard Fromberg,Australia,AUS,false,29.31%
+219,Nikoloz Basilashvili,Georgia,GEO,true,29.30%
+220,Martin Vassallo Arguello,Argentina,ARG,false,29.30%
+221,Joao Sousa,Portugal,POR,true,29.29%
+222,Nicolas Almagro,Spain,ESP,false,29.29%
+223,Pablo Cuevas,Uruguay,URU,true,29.26%
+224,Alexander Volkov,Russian Federation,RUS,false,29.26%
+225,Thomaz Bellucci,Brazil,BRA,true,29.26%
+226,Kevin Curren,United States,USA,false,29.25%
+227,Potito Starace,Italy,ITA,false,29.23%
+228,Federico Delbonis,Argentina,ARG,true,29.23%
+229,Joao Cunha Silva,Portugal,POR,false,29.22%
+230,Alexandr Dolgopolov,Ukraine,UKR,false,29.22%
+231,Patrick Rafter,Australia,AUS,false,29.21%
+232,Dinu Pescariu,Romania,ROU,false,29.20%
+233,Philipp Kohlschreiber,Germany,GER,true,29.19%
+234,Taylor Dent,United States,USA,false,29.19%
+235,Ruben Ramirez Hidalgo,Spain,ESP,false,29.19%
+236,Tomas Berdych,Czech Republic,CZE,false,29.19%
+237,Lukasz Kubot,Poland,POL,false,29.18%
+238,Florian Mayer,Germany,GER,false,29.18%
+239,Henri Laaksonen,Switzerland,SUI,true,29.18%
+240,Jeff Tarango,United States,USA,false,29.18%
+241,Paul Haarhuis,Netherlands,NED,false,29.13%
+242,Tobias Kamke,Germany,GER,false,29.13%
+243,Albert Portas,Spain,ESP,false,29.13%
+244,Cedric Pioline,France,FRA,false,29.13%
+245,Andrei Cherkasov,Russian Federation,RUS,false,29.12%
+246,Amos Mansdorf,Israel,ISR,false,29.11%
+247,Jimmy Wang,"Taiwan, Province of China",TPE,false,29.09%
+248,Luiz Mattar,Brazil,BRA,false,29.06%
+249,Emilio Benfele Alvarez,Spain,ESP,false,29.04%
+250,Mischa Zverev,Germany,GER,true,29.02%
+251,Tommy Haas,Germany,GER,false,29.01%
+252,Javier Frana,Argentina,ARG,false,29.00%
+253,Hyung Taik Lee,"Korea, Republic of",KOR,false,28.99%
+254,Jose Acasuso,Argentina,ARG,false,28.99%
+255,Lukas Dlouhy,Czech Republic,CZE,false,28.98%
+256,Hicham Arazi,Morocco,MAR,false,28.96%
+257,Andrey Kuznetsov,Russian Federation,RUS,true,28.96%
+258,Pete Sampras,United States,USA,false,28.95%
+259,Irakli Labadze,Georgia,GEO,false,28.93%
+260,Boris Becker,Germany,GER,false,28.92%
+261,David Rikl,Czech Republic,CZE,false,28.91%
+262,Filip Krajinovic,Serbia,SRB,true,28.91%
+263,Albert Montanes,Spain,ESP,false,28.90%
+264,Gustavo Kuerten,Brazil,BRA,false,28.90%
+265,Lars Burgsmuller,Germany,GER,false,28.89%
+266,Adrian Voinea,Romania,ROU,false,28.88%
+267,Pablo Carreno Busta,Spain,ESP,true,28.86%
+268,Nicolas Devilder,France,FRA,false,28.85%
+269,Olivier Delaitre,France,FRA,false,28.82%
+270,Facundo Bagnis,Argentina,ARG,true,28.77%
+271,Stefanos Tsitsipas,Greece,GRE,true,28.77%
+272,Sandon Stolle,Australia,AUS,false,28.75%
+273,Martin Klizan,Slovakia,SVK,true,28.74%
+274,Jo Wilfried Tsonga,France,FRA,true,28.70%
+275,Radu Albot,"Moldova, Republic of",MDA,true,28.70%
+276,Ivo Heuberger,Switzerland,SUI,false,28.69%
+277,Chris Woodruff,United States,USA,false,28.67%
+278,Richard Krajicek,Netherlands,NED,false,28.67%
+279,Alejandro Falla,Colombia,COL,false,28.65%
+280,Jakob Hlasek,Switzerland,SUI,false,28.64%
+281,Thomas Enqvist,Sweden,SWE,false,28.64%
+282,Patrick McEnroe,United States,USA,false,28.62%
+283,Julien Benneteau,France,FRA,false,28.61%
+284,Doug Flach,United States,USA,false,28.58%
+285,Karol Beck,Slovakia,SVK,false,28.58%
+286,Marat Safin,Russian Federation,RUS,false,28.57%
+287,Frederik Fetterlein,Denmark,DEN,false,28.56%
+288,Kristof Vliegen,Belgium,BEL,false,28.54%
+289,Michael Russell,United States,USA,false,28.54%
+290,Daniel Gimeno Traver,Spain,ESP,false,28.53%
+291,Adrian Mannarino,France,FRA,true,28.52%
+292,Ivan Dodig,Croatia,CRO,false,28.51%
+293,Ivo Minar,Czech Republic,CZE,false,28.51%
+294,Stefano Travaglia,Italy,ITA,true,28.49%
+295,Younes El Aynaoui,Morocco,MAR,false,28.48%
+296,Denis Gremelmayr,Germany,GER,false,28.48%
+297,Mikael Tillstrom,Sweden,SWE,false,28.48%
+298,Wally Masur,Australia,AUS,false,28.46%
+299,Alexander Popp,Germany,GER,false,28.46%
+300,Donald Young,United States,USA,true,28.46%
+301,Stephane Robert,France,FRA,false,28.45%
+302,Evgeny Korolev,Kazakhstan,KAZ,false,28.45%
+303,Alex Bogomolov Jr,Russian Federation,RUS,false,28.43%
+304,Nicklas Kulti,Sweden,SWE,false,28.43%
+305,Mark Knowles,Bahamas,BAH,false,28.43%
+306,John Millman,Australia,AUS,true,28.40%
+307,Robin Haase,Netherlands,NED,true,28.39%
+308,Alexander Bublik,Kazakhstan,KAZ,true,28.39%
+309,Mardy Fish,United States,USA,false,28.39%
+310,Tomas Behrend,Germany,GER,false,28.37%
+311,Illya Marchenko,Ukraine,UKR,true,28.36%
+312,Karsten Braasch,Germany,GER,false,28.34%
+313,Casper Ruud,Norway,NOR,true,28.29%
+314,Olivier Rochus,Belgium,BEL,false,28.28%
+315,Christophe Rochus,Belgium,BEL,false,28.27%
+316,Joao Souza,Brazil,BRA,false,28.26%
+317,Filip Dewulf,Belgium,BEL,false,28.26%
+318,Tommy Paul,United States,USA,true,28.25%
+319,Karen Khachanov,Russian Federation,RUS,true,28.25%
+320,Rodolphe Gilbert,France,FRA,false,28.23%
+321,Mariano Puerta,Argentina,ARG,false,28.22%
+322,Andreas Vinciguerra,Sweden,SWE,false,28.21%
+323,Juan Albert Viloca Puig,Spain,ESP,false,28.17%
+324,Juan Ignacio Londero,Argentina,ARG,true,28.17%
+325,Christian Vinck,Germany,GER,false,28.17%
+326,Andrei Stoliarov,Russian Federation,RUS,false,28.17%
+327,Dusan Lajovic,Serbia,SRB,true,28.16%
+328,Marinko Matosevic,Australia,AUS,false,28.14%
+329,Jared Palmer,United States,USA,false,28.13%
+330,Denis Shapovalov,Canada,CAN,true,28.12%
+331,Jordan Thompson,Australia,AUS,true,28.12%
+332,Jim Grabb,United States,USA,false,28.11%
+333,Yoshihito Nishioka,Japan,JPN,true,28.11%
+334,Noam Okun,Israel,ISR,false,28.09%
+335,Igor Kunitsyn,Russian Federation,RUS,false,28.08%
+336,Santiago Giraldo,Colombia,COL,false,28.08%
+337,Harel Levy,Israel,ISR,false,28.08%
+338,Somdev Devvarman,India,IND,false,28.06%
+339,David Wheaton,United States,USA,false,28.04%
+340,Galo Blanco,Spain,ESP,false,28.03%
+341,Byron Black,Zimbabwe,ZIM,false,28.03%
+342,Paolo Lorenzi,Italy,ITA,true,28.03%
+343,Robby Ginepri,United States,USA,false,28.03%
+344,Juan Balcells,Spain,ESP,false,28.02%
+345,Philipp Petzschner,Germany,GER,false,28.02%
+346,Guy Forget,France,FRA,false,28.00%
+347,Paradorn Srichaphan,Thailand,THA,false,28.00%
+348,Egor Gerasimov,Belarus,BLR,true,27.98%
+349,Simon Youl,Australia,AUS,false,27.98%
+350,Andrew Ilie,Australia,AUS,false,27.97%
+351,Matteo Berrettini,Italy,ITA,true,27.97%
+352,Arnaud Clement,France,FRA,false,27.96%
+353,Victor Hanescu,Romania,ROU,false,27.94%
+354,Florent Serra,France,FRA,false,27.92%
+355,Magnus Larsson,Sweden,SWE,false,27.89%
+356,Chris Wilkinson,United Kingdom,GBR,false,27.89%
+357,Dennis Van Scheppingen,Netherlands,NED,false,27.88%
+358,Todd Martin,United States,USA,false,27.87%
+359,Kevin Kim,United States,USA,false,27.87%
+360,Mikhail Kukushkin,Kazakhstan,KAZ,true,27.87%
+361,Ernests Gulbis,Latvia,LAT,true,27.86%
+362,Jiri Vanek,Czech Republic,CZE,false,27.84%
+363,Edouard Roger Vasselin,France,FRA,false,27.84%
+364,Andrei Olhovskiy,Russian Federation,RUS,false,27.84%
+365,Lorenzo Sonego,Italy,ITA,true,27.81%
+366,Grega Zemlja,Slovenia,SLO,false,27.81%
+367,Oscar Hernandez,Spain,ESP,false,27.80%
+368,Chuck Adams,United States,USA,false,27.80%
+369,Marc Rosset,Switzerland,SUI,false,27.79%
+370,Michael Tebbutt,Australia,AUS,false,27.78%
+371,Lionel Roux,France,FRA,false,27.75%
+372,Teymuraz Gabashvili,Russian Federation,RUS,false,27.74%
+373,Jan Kroslak,Slovakia,SVK,false,27.74%
+374,Chris Pridham,Canada,CAN,false,27.73%
+375,Julien Boutter,France,FRA,false,27.73%
+376,Guido Pella,Argentina,ARG,true,27.70%
+377,Hubert Hurkacz,Poland,POL,true,27.68%
+378,Jesse Levine,Canada,CAN,false,27.68%
+379,Matthias Bachinger,Germany,GER,true,27.68%
+380,Tim Smyczek,United States,USA,false,27.67%
+381,David Prinosil,Germany,GER,false,27.65%
+382,David Nainkin,South Africa,RSA,false,27.65%
+383,Steve Darcis,Belgium,BEL,false,27.65%
+384,Andrey Golubev,Kazakhstan,KAZ,false,27.62%
+385,Sergiy Stakhovsky,Ukraine,UKR,true,27.61%
+386,Robbie Weiss,United States,USA,false,27.60%
+387,Matthew Ebden,Australia,AUS,true,27.59%
+388,Aljaz Bedene,Slovenia,SLO,true,27.58%
+389,Jonathan Stark,United States,USA,false,27.56%
+390,Justin Gimelstob,United States,USA,false,27.55%
+391,Paul Henri Mathieu,France,FRA,false,27.54%
+392,Jan Siemerink,Netherlands,NED,false,27.54%
+393,Wayne Black,Zimbabwe,ZIM,false,27.52%
+394,Marc Gicquel,France,FRA,false,27.52%
+395,John Van Lottum,Netherlands,NED,false,27.52%
+396,Steve Bryan,United States,USA,false,27.47%
+397,Jan Lennard Struff,Germany,GER,true,27.45%
+398,George Bastl,Switzerland,SUI,false,27.44%
+399,Jens Knippschild,Germany,GER,false,27.43%
+400,Patrik Kuhnen,Germany,GER,false,27.40%
+401,Jan Hajek,Czech Republic,CZE,false,27.38%
+402,Jeremy Chardy,France,FRA,true,27.34%
+403,Janko Tipsarevic,Serbia,SRB,false,27.34%
+404,Dmitry Tursunov,Russian Federation,RUS,false,27.34%
+405,Ramon Delgado,Paraguay,PAR,false,27.33%
+406,Marco Cecchinato,Italy,ITA,true,27.32%
+407,Denis Istomin,Uzbekistan,UZB,true,27.29%
+408,Michael Berrer,Germany,GER,false,27.24%
+409,Borna Coric,Croatia,CRO,true,27.23%
+410,Michael Llodra,France,FRA,false,27.23%
+411,Jeff Morrison,United States,USA,false,27.22%
+412,Ricardo Mello,Brazil,BRA,false,27.22%
+413,Peter Gojowczyk,Germany,GER,true,27.21%
+414,Hendrik Dreekmann,Germany,GER,false,27.21%
+415,Tomas Nydahl,Sweden,SWE,false,27.20%
+416,Ugo Humbert,France,FRA,true,27.19%
+417,Thomas Johansson,Sweden,SWE,false,27.19%
+418,Thomas Fabbiano,Italy,ITA,true,27.18%
+419,Olivier Patience,France,FRA,false,27.17%
+420,Boris Pashanski,Serbia,SRB,false,27.16%
+421,Lucas Pouille,France,FRA,true,27.15%
+422,Michael Joyce,United States,USA,false,27.14%
+423,Michiel Schapers,Netherlands,NED,false,27.11%
+424,Jeremy Bates,United Kingdom,GBR,false,27.10%
+425,Miomir Kecmanovic,Serbia,SRB,true,27.10%
+426,Sebastien Lareau,Canada,CAN,false,27.09%
+427,Alex Calatrava,Spain,ESP,false,27.09%
+428,Christian Saceanu,Germany,GER,false,27.07%
+429,Simon Greul,Germany,GER,false,27.07%
+430,Jack Sock,United States,USA,true,27.06%
+431,Gaston Etlis,Argentina,ARG,false,27.06%
+432,Andy Roddick,United States,USA,false,27.06%
+433,Eduardo Schwank,Argentina,ARG,false,27.05%
+434,Kyle Edmund,United Kingdom,GBR,true,27.05%
+435,Taro Daniel,Japan,JPN,true,27.05%
+436,Danai Udomchoke,Thailand,THA,false,27.04%
+437,Steve Campbell,United States,USA,false,27.03%
+438,Lloyd George Muirhead Harris,South Africa,RSA,true,27.01%
+439,Andreas Beck,Germany,GER,false,26.99%
+440,Neville Godwin,South Africa,RSA,false,26.99%
+441,Leonardo Mayer,Argentina,ARG,true,26.98%
+442,Ivan Ljubicic,Croatia,CRO,false,26.98%
+443,Pere Riba,Spain,ESP,false,26.96%
+444,Ricardas Berankis,Lithuania,LTU,true,26.96%
+445,Wayne Odesnik,United States,USA,false,26.93%
+446,Ryan Sweeting,United States,USA,false,26.93%
+447,Attila Savolt,Hungary,HUN,false,26.92%
+448,Milos Raonic,Canada,CAN,true,26.91%
+449,Tommy Ho,United States,USA,false,26.90%
+450,Max Mirnyi,Belarus,BLR,false,26.89%
+451,Jiri Vesely,Czech Republic,CZE,true,26.86%
+452,Marc Kevin Goellner,Germany,GER,false,26.85%
+453,Jan Apell,Sweden,SWE,false,26.84%
+454,Igor Sijsling,Netherlands,NED,false,26.82%
+455,Jan Vacek,Czech Republic,CZE,false,26.81%
+456,Luis Horna,Peru,PER,false,26.80%
+457,Jamie Morgan,Australia,AUS,false,26.79%
+458,Denis Kudla,United States,USA,true,26.74%
+459,Sam Querrey,United States,USA,true,26.70%
+460,Ryan Harrison,United States,USA,true,26.70%
+461,Mackenzie Mcdonald,United States,USA,true,26.70%
+462,Kenneth Carlsen,Denmark,DEN,false,26.68%
+463,Shuzo Matsuoka,Japan,JPN,false,26.63%
+464,Ivan Navarro,Spain,ESP,false,26.62%
+465,Frances Tiafoe,United States,USA,true,26.62%
+466,Leander Paes,India,IND,false,26.61%
+467,Jan Michael Gambill,United States,USA,false,26.60%
+468,Go Soeda,Japan,JPN,true,26.60%
+469,Jerzy Janowicz,Poland,POL,false,26.59%
+470,Jared Donaldson,United States,USA,false,26.55%
+471,Raemon Sluiter,Netherlands,NED,false,26.55%
+472,Brian Baker,United States,USA,false,26.51%
+473,Brian Vahaly,United States,USA,false,26.51%
+474,Nicolas Mahut,France,FRA,true,26.50%
+475,Yen Hsun Lu,"Taiwan, Province of China",TPE,true,26.49%
+476,Andreas Haider Maurer,Austria,AUT,false,26.48%
+477,Bryan Shelton,United States,USA,false,26.48%
+478,Nicolas Pereira,"Venezuela, Bolivarian Republic of",VEN,false,26.46%
+479,Thiemo De Bakker,Netherlands,NED,false,26.45%
+480,Scott Draper,Australia,AUS,false,26.45%
+481,Mark Philippoussis,Australia,AUS,false,26.43%
+482,Yuichi Sugita,Japan,JPN,true,26.39%
+483,Joern Renzenbrink,Germany,GER,false,26.39%
+484,Martin Sinner,Germany,GER,false,26.37%
+485,Greg Rusedski,United Kingdom,GBR,false,26.37%
+486,Kevin Anderson,South Africa,RSA,true,26.37%
+487,Johan Van Herck,Belgium,BEL,false,26.37%
+488,Malek Jaziri,Tunisia,TUN,true,26.32%
+489,Jerome Golmard,France,FRA,false,26.31%
+490,Marsel Ilhan,Turkey,TUR,true,26.24%
+491,Pierre Hugues Herbert,France,FRA,true,26.23%
+492,Tennys Sandgren,United States,USA,true,26.22%
+493,Lukas Rosol,Czech Republic,CZE,false,26.21%
+494,Tatsuma Ito,Japan,JPN,false,26.18%
+495,Vladimir Voltchkov,Belarus,BLR,false,26.15%
+496,Alex Obrien,United States,USA,false,26.13%
+497,Thierry Ascione,France,FRA,false,26.10%
+498,Feliciano Lopez,Spain,ESP,true,26.09%
+499,Dustin Brown,Germany,GER,true,26.09%
+500,Kristian Pless,Denmark,DEN,false,26.08%
+501,Michael Kohlmann,Germany,GER,false,26.01%
+502,Guillaume Raoux,France,FRA,false,26.01%
+503,Thiago Monteiro,Brazil,BRA,true,25.99%
+504,Gregory Carraz,France,FRA,false,25.99%
+505,Stephane Simian,France,FRA,false,25.96%
+506,Taylor Harry Fritz,United States,USA,true,25.88%
+507,Simone Bolelli,Italy,ITA,false,25.85%
+508,Benjamin Becker,Germany,GER,false,25.75%
+509,Daniel Vacek,Czech Republic,CZE,false,25.74%
+510,Goran Ivanisevic,Croatia,CRO,false,25.73%
+511,Daniele Bracciali,Italy,ITA,false,25.72%
+512,Alexei Popyrin,Australia,AUS,true,25.65%
+513,Martin Damm,Czech Republic,CZE,false,25.60%
+514,Marco Chiudinelli,Switzerland,SUI,false,25.58%
+515,Steve Johnson,United States,USA,true,25.58%
+516,Jacco Eltingh,Netherlands,NED,false,25.57%
+517,Nicolas Jarry,Chile,CHI,true,25.55%
+518,Tomas Zib,Czech Republic,CZE,false,25.55%
+519,Evgeny Donskoy,Russian Federation,RUS,true,25.53%
+520,Rajeev Ram,United States,USA,false,25.49%
+521,Ruben Bemelmans,Belgium,BEL,false,25.49%
+522,Maximilian Marterer,Germany,GER,true,25.45%
+523,Marius Copil,Romania,ROU,false,25.41%
+524,Vasek Pospisil,Canada,CAN,true,25.37%
+525,Lukas Lacko,Slovakia,SVK,true,25.25%
+526,Antony Dupuis,France,FRA,false,25.23%
+527,James Ward,United Kingdom,GBR,true,25.21%
+528,Bernard Tomic,Australia,AUS,true,25.20%
+529,Cyril Saulnier,France,FRA,false,25.20%
+530,Laurence Tieleman,Italy,ITA,false,25.19%
+531,Robert Kendrick,United States,USA,false,25.17%
+532,Gary Muller,South Africa,RSA,false,25.13%
+533,Alexander Mronz,Germany,GER,false,25.08%
+534,Peter Wessels,Netherlands,NED,false,25.01%
+535,Amer Delic,Bosnia and Herzegovina,BIH,false,24.97%
+536,Frank Dancevic,Canada,CAN,false,24.97%
+537,Victor Estrella,Dominican Republic,DOM,false,24.66%
+538,Bobby Reynolds,United States,USA,false,24.66%
+539,Peter Luczak,Australia,AUS,false,24.53%
+540,James Duckworth,Australia,AUS,true,24.53%
+541,Alex Radulescu,Germany,GER,false,24.44%
+542,Marcos Daniel,Brazil,BRA,false,24.38%
+543,Markus Zoecke,Germany,GER,false,24.24%
+544,Martin Verkerk,Netherlands,NED,false,24.21%
+545,Michal Przysiezny,Poland,POL,false,24.15%
+546,Nick Kyrgios,Australia,AUS,true,24.07%
+547,Thanasi Kokkinakis,Australia,AUS,true,24.06%
+548,Horacio Zeballos,Argentina,ARG,true,24.05%
+549,Wesley Moodie,South Africa,RSA,false,24.03%
+550,Daniel Brands,Germany,GER,false,23.97%
+551,Daniel Nestor,Canada,CAN,false,23.79%
+552,Dick Norman,Belgium,BEL,false,23.73%
+553,Alexander Waske,Germany,GER,false,23.67%
+554,Kenny De Schepper,France,FRA,false,23.65%
+555,Gilles Muller,Luxembourg,LUX,false,23.55%
+556,Wayne Arthurs,Australia,AUS,false,23.14%
+557,Samuel Groth,Australia,AUS,false,23.05%
+558,John Isner,United States,USA,true,22.50%
+559,Joachim Johansson,Sweden,SWE,false,22.35%
+560,Chris Guccione,Australia,AUS,false,21.44%
+561,Ivo Karlovic,Croatia,CRO,true,21.22%
+562,Reilly Opelka,United States,USA,true,20.71%

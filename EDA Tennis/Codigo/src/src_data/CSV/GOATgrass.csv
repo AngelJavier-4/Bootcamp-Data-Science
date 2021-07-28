@@ -1,0 +1,21 @@
+,rank,name,country_id,totalPoints,grandSlams,tourFinals,altFinals,masters,olympics,bigTitles,titles,weeksAtNo1,wonLost,wonPct
+0,1,Roger Federer,SUI,185,8,0,0,0,0,8,19,523,192-29,86.9%
+1,2,Jimmy Connors,USA,131,4,0,0,1,0,5,9,202,178-37,82.8%
+2,3,Pete Sampras,USA,109,7,0,0,0,0,7,10,428,101-20,83.5%
+3,4,Novak Djokovic,SRB,101,6,0,0,0,0,6,7,243,102-18,85.0%
+4,5,John Newcombe,AUS,98,5,0,0,0,0,5,7,11,164-46,78.1%
+5,5,Rod Laver,AUS,98,4,0,0,3,0,7,8,117,89-16,84.8%
+6,7,John McEnroe,USA,95,3,0,0,3,0,6,8,181,121-20,85.8%
+7,8,Bjorn Borg,SWE,91,5,0,0,0,0,5,7,300,72-14,83.7%
+8,9,Boris Becker,GER,90,3,0,0,1,0,4,7,104,116-25,82.3%
+9,10,Ken Rosewall,AUS,84,3,0,0,0,0,3,8,123,139-38,78.5%
+10,11,Stefan Edberg,SWE,75,4,0,0,0,0,4,5,209,99-27,78.6%
+11,12,Andy Murray,GBR,65,2,0,0,0,1,3,8,103,110-23,82.7%
+12,13,Arthur Ashe,USA,60,3,0,0,0,0,3,6,0,125-36,77.6%
+13,14,Rafael Nadal,ESP,52,2,0,0,0,0,2,4,0,71-20,78.0%
+14,15,Tony Roche,AUS,51,0,0,0,1,0,1,7,0,135-37,78.5%
+15,16,Stan Smith,USA,50,2,0,0,1,0,3,9,77,148-46,76.3%
+16,17,Guillermo Vilas,ARG,42,2,1,0,0,0,3,4,0,71-27,72.4%
+17,18,Ilie Nastase,ROU,39,1,0,0,1,0,2,2,0,77-32,70.6%
+18,19,Lleyton Hewitt,AUS,37,1,0,0,0,0,1,8,52,129-41,75.9%
+19,20,Ivan Lendl,USA,36,0,0,0,0,0,0,2,0,81-27,75.0%
